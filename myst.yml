@@ -1,0 +1,32 @@
+version: 1
+project:
+  title: IA em Movimento
+  authors:
+    - name: LAMFO + OtimizAI
+  github: executablebooks/jupyter-book
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: intro.md
+    - file: capitulos/capComoUsarEsteEbook.md
+    - file: capitulos/capComoUsarEsteEbook
+    - file: capitulos/capFundamentos_de_IA
+    - file: capitulos/capArquiteturasTecnologias_ComponentesTecnicos
+    - file: capitulos/cap2MCP
+    - file: capitulos/capEstrategiaConstrucao_e_Operacao
+    - file: capitulos/capEcossistema_Framework
+    - file: capitulos/capn8n
+    - file: capitulos/capRecursosDeApoio
+    - file: capitulos/referencia
+    - file: capitulos/Sobre_os_Autores
+site:
+  options:
+    logo: imagens/logo_otimizai_lamfo.png
+    favicon: imagens/logo.png
+    analytics_google: ''
+    folders: true
+  template: book-theme
