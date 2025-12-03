@@ -20,7 +20,7 @@ project:
     - file: capitulos/capEcossistema_Framework
     - file: capitulos/capn8n
     - file: capitulos/capRecursosDeApoio
-    - file: capitulos/referencia
+    - file: capitulos/references
     - file: capitulos/Sobre_os_Autores
 site:
   options:
