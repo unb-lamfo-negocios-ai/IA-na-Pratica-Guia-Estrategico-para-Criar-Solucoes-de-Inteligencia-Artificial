@@ -138,7 +138,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/mateus.png" alt="Mateus Macedo" width="160"><br>
+      <img src="./images/mateus.jpg" alt="Mateus Macedo" width="160"><br>
       <strong>Mateus Macedo</strong><br>
       <em>Participação no ebook:</em> autor<br>
       <a href="https://www.linkedin.com/in/mateus--macedo/">LinkedIn</a>
