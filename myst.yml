@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: IA em Movimento
+  title: IA na prática: Guia estratégico para criar soluções de inteligência artificial
   authors:
     - name: LAMFO + OtimizAI
   github: executablebooks/jupyter-book
