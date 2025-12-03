@@ -23,7 +23,7 @@ Nosso objetivo é tornar a experiência com IA mais acessível, estruturada e in
 
 Nos últimos anos, a Inteligência Artificial deixou de ser um tema restrito à academia ou às grandes empresas de tecnologia, tornando-se parte do cotidiano de organizações de todos os portes. Do **recomendador de filmes em plataformas de streaming** ao **uso de chatbots em serviços públicos**, a IA já se encontra em múltiplas camadas da vida social e econômica.  
 
-A proposta deste material é **traduzir conceitos técnicos em linguagem clara**, apresentando tanto o potencial quanto os desafios da IA. Mais do que descrever algoritmos, buscamos destacar o **impacto estratégico e ético** de cada aplicação, ajudando o leitor a identificar oportunidades e a evitar armadilhas comuns {cite}`russell2021` {cite}`provost2013`.  
+A proposta deste material é **traduzir conceitos técnicos em linguagem clara**, apresentando tanto o potencial quanto os desafios da IA. Mais do que descrever algoritmos, buscamos destacar o **impacto estratégico e ético** de cada aplicação, ajudando o leitor a identificar oportunidades e a evitar armadilhas comuns {cite}`russell2021`, {cite}`provost2013`.  
 
 
 ## Objetivos do eBook
