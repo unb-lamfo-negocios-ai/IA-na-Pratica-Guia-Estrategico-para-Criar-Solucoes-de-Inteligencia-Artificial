@@ -22,7 +22,6 @@ Este capítulo reúne **recursos complementares cuidadosamente selecionados** qu
 - Marque os links que parecem mais relevantes para seu momento atual e retorne periodicamente para descobrir novos caminhos.
 - Este é um capítulo vivo — considere-o sua biblioteca de referência para manter-se atualizado com as melhores ferramentas e expertises em IA.
 ```
-Prepare-se para expandir seus horizontes. Boa exploração!
 
 
 ## Referências sobre Negócios e Estratégia em IA
