@@ -12,6 +12,7 @@ project:
       output: exports/book.pdf
   toc:
    
+    - file: capitulos/capCapa
     - file: capitulos/capComoUsarEsteEbook
     - file: capitulos/capFundamentos_de_IA
     - file: capitulos/capArquiteturasTecnologias_ComponentesTecnicos
