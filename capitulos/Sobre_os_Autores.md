@@ -24,7 +24,7 @@ Nos últimos anos, o LAMFO consolidou-se como referência nacional ao atuar em p
 - **Formação de talentos para o mercado de IA**  
   O laboratório é um dos maiores formadores de especialistas em dados e IA da Universidade de Brasília.
 
-### Para conhecer mais
+### Conheça mais sobre o LAMFO
 - **Site oficial:** https://lamfo.unb.br/  
 - **Instagram:** @lamfounb  
 - [**LinkedIn**](https://www.linkedin.com/company/lamfo/posts/?feedView=all)
