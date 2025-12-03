@@ -11,7 +11,7 @@ project:
       template: plain_latex_book
       output: exports/book.pdf
   toc:
-    - file: intro.md
+   
     - file: capitulos/capComoUsarEsteEbook.md
     - file: capitulos/capFundamentos_de_IA
     - file: capitulos/capArquiteturasTecnologias_ComponentesTecnicos
