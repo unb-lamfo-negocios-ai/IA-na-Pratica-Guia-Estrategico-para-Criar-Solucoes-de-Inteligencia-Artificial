@@ -979,9 +979,13 @@ Antes de finalizar, vale destacar algumas **boas práticas** tanto para quem **d
 :class: tip
 
  ✅ Sempre valide o `inputSchema` antes de chamar ferramentas
+
  ✅ Use `id` único para cada mensagem
+
  ✅ Implemente timeout (não espere eternamente por resposta)
+
  ✅ Trate todos os códigos de erro possíveis
+
  ✅ Teste com ferramentas simples primeiro
 ```
 
@@ -989,8 +993,11 @@ Antes de finalizar, vale destacar algumas **boas práticas** tanto para quem **d
 :class: tip
 
  ✅ Se ver erro `-32601`: A ferramenta não existe
+
  ✅ Se ver erro `-32602`: Faltou algum parâmetro obrigatório
+
  ✅ Se ver erro `-32603`: Problema no servidor (tente novamente)
+
  ✅ Verifique os logs para detalhes dos erros
 ```
 
