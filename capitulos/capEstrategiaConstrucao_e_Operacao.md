@@ -1,4 +1,4 @@
-# Estratégias de Construção e Operação
+<img width="710" height="399" alt="image" src="https://github.com/user-attachments/assets/fce15872-2c39-435d-91c3-247276484f7a" /># Estratégias de Construção e Operação
 
 Criar uma solução de Inteligência Artificial vai muito além de treinar modelos. É preciso pensar em **estratégia, operação, custos, governança e sustentabilidade do produto**.  
 Neste capítulo, discutiremos como avaliar diferentes caminhos, modelos de negócio e abordagens operacionais ao desenvolver soluções de IA.  
@@ -31,7 +31,7 @@ Motivadores Estratégicos para a Abordagem "Build":
 
 ```{admonition} Exemplo: caso do Harvey AI
 :class: exemplo
-O Harvey AI ajustou modelos da família GPT para se tornar um especialista em análise de documentos jurídicos, criando uma vantagem competitiva sustentável em seu nicho.
+O [Harvey AI](https://www.harvey.ai/) ajustou modelos da família GPT para se tornar um especialista em análise de documentos jurídicos, criando uma vantagem competitiva sustentável em seu nicho.
 ```
 - **Soberania de Dados, Segurança e Conformidade**: Para setores como o financeiro, saúde ou governamental, enviar dados de clientes para uma API de terceiros pode ser inviável por razões regulatórias (LGPD/GDPR) e de segurança. A solução é uma abordagem "Build"!
 
