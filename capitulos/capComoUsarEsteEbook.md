@@ -36,8 +36,6 @@ A proposta deste material é **traduzir conceitos técnicos em linguagem clara**
 
 ## Para quem este eBook foi escrito?
 
-Este material é destinado a:  
-
 - **Empreendedores** que desejam lançar produtos ou serviços inteligentes.  
 - **Gestores e analistas** que querem incorporar IA em processos decisórios ou operacionais.  
 - **Profissionais criativos** que buscam novas formas de produção com auxílio de IA generativa.  
@@ -79,13 +77,13 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 - **Frameworks open-source (Llama, Mistral, DeepSeek)**: alternativas flexíveis, econômicas e customizáveis.
 - **Serviços de inferência e otimização**: reduzem custo e aumentam velocidade de execução dos modelos.
 - **Ferramentas de avaliação e monitoramento**: acompanham desempenho, qualidade e segurança do sistema.
-6. [**Capítulo 6 - Integrando com n8n**]{capn8n}
+6. [**Capítulo 6 - Integrando com n8n**](capn8n)
 - **Automação low-code com workflows visuais**: cria automações complexas sem necessidade de programar.
 - **Uso de APIs no n8n**: conecta qualquer serviço externo ao fluxo de forma simples.
 - **Credenciais e autenticação**: assegura acesso seguro e controlado a sistemas sensíveis.
 - **Nodes essenciais (Set, IF, HTTP Request)**: blocos centrais para manipular dados e controlar o fluxo.
 - **Tratamento de erros e resiliência**: mantém o workflow funcionando mesmo com falhas externas.
-7. [**Recursos de Apoio e Exploração**]{capRecursosDeApoio}
+7. [**Recursos de Apoio e Exploração**](capRecursosDeApoio)
 - **Referências de negócios e estratégia**: ajudam a tomar decisões sólidas sobre produtos e mercado.
 - **Diretórios e catálogos de ferramentas de IA**: facilitam a descoberta de novas soluções e tendências.
 - **Documentações técnicas de plataformas de IA**: fornecem materiais oficiais e sempre atualizados.
@@ -106,11 +104,17 @@ Se algum termo parecer novo ou técnico, não se preocupe: ao longo do texto, fo
 
 ## Por que Este Livro “Nunca Estará Pronto”
 
-Escrever sobre Inteligência Artificial hoje é, por si só, um desafio delicioso — e inevitavelmente imperfeito. A tecnologia avança em ritmo acelerado, quase em tempo real, e aquilo que afirmamos agora pode ganhar novas camadas, atualizações ou até ser superado em poucos meses. Este livro, lançado em dezembro de 2025, nasce com essa consciência plena.
+Escrever sobre Inteligência Artificial hoje é, por si só, um desafio instigante — e inevitavelmente imperfeito. A tecnologia avança em ritmo acelerado, quase em tempo real, e aquilo que afirmamos agora pode ganhar novas camadas, atualizações ou até ser superado em poucos meses. Este livro, lançado em dezembro de 2025, nasce com essa consciência plena.
 
 Por isso, não o enxergamos como uma obra fechada, mas como um ponto de partida — um organismo vivo, que respira junto com a evolução da IA e cresce com a contribuição de quem o lê.
 
-**Deixamos aqui um convite aberto:** participe ativamente da construção deste conteúdo. Sempre que tiver uma sugestão, correção ou atualização, você pode enviar uma solicitação de modificação pelo GitHub por meio de um pull request. Sua colaboração é bem-vinda e valorizada; juntos, conseguimos manter este material útil, atual e conectado com as transformações do nosso tempo.
+:::{admonition} Deixamos aqui um convite aberto:
+:type: hint
+Participe da construção deste conteúdo!
+
+Sempre que tiver uma sugestão, correção ou atualização, você pode enviar uma solicitação de modificação pelo GitHub por meio de um pull request. Sua colaboração é bem-vinda e valorizada; juntos, conseguimos manter este material útil, atual e conectado com as transformações do nosso tempo.
+:::
+ 
 
 ## Códigos Comentados para Estudo e Prática
 
@@ -127,7 +131,6 @@ Os códigos citados ao longo dos capítulos — sempre associados aos exemplos q
 Este material foi feito para você!
 
 
-
 ## Dicas para aproveitar melhor a leitura
 
 1. **Leia de forma não linear**: cada capítulo foi estruturado para ser consultado separadamente, permitindo que você avance diretamente para os temas mais urgentes no seu contexto.  
@@ -135,8 +138,7 @@ Este material foi feito para você!
 3. **Pratique com as ferramentas**: explore links e recursos sugeridos. A melhor forma de aprender sobre IA é **colocar a mão na massa**, mesmo em experimentos simples, como usar um chatbot ou treinar um modelo básico em planilhas.  
 4. **Conecte com sua realidade**: reflita sobre os conceitos apresentados à luz dos desafios ou oportunidades da sua área — seja otimizar um processo de atendimento, melhorar a tomada de decisão ou criar produtos inovadores.  
 5. **Compartilhe e discuta**: debater ideias com colegas e comunidades amplia a compreensão e gera novas perspectivas. Muitas inovações surgem da combinação de diferentes pontos de vista.  
-6. Teste da Maisa
-7. Teste da Maísa e do Erick
+
 
 :::{tip}
 Sempre que encontrar um conceito desafiador neste livro, consulte os materiais de apoio e faça paralelos com exemplos da sua realidade. A melhor forma de entender IA é **relacionando teoria, prática e impacto social**.
