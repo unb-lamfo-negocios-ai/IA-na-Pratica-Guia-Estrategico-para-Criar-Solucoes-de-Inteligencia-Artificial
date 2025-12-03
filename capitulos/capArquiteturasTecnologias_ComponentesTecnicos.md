@@ -668,7 +668,7 @@ Essas alternativas podem ser pontos de partida para quem deseja se capacitar ou 
 
 Criar o design de uma aplicação envolve uma série de decisões visuais e funcionais. Algumas dessas etapas — como a escolha da paleta de cores, referências visuais e seleção de ícones — podem ser significativamente facilitadas com o uso de ferramentas prontas e acessíveis. No entanto, aspectos mais profundos como **a definição da identidade visual, a experiência do usuário (UX)** e **a integração entre design e funcionalidade** devem ser desenvolvidos com atenção pelo próprio criador, considerando os objetivos da aplicação e as necessidades dos usuários.
 
-```{admonition} A seguir, destacamos algumas ferramentas úteis para apoiar o processo criativo:
+```{admonition} Algumas ferramentas úteis para apoiar o processo criativo:
 :class: hint
 
 - [**Coolors**](https://coolors.co/) — Gera paletas de cores harmoniosas e exportáveis.
@@ -698,7 +698,7 @@ Para o desenvolvedor, o uso dessas ferramentas não elimina a necessidade de con
 - **Entender como integrar** o frontend gerado à lógica do backend e às APIs.
 ```
 
-```{admonition} A seguir, algumas das principais ferramentas de IA voltadas à criação de Frontend:
+```{admonition} Algumas das principais ferramentas de IA voltadas à criação de Frontend:
 :class: hint
 
 - [**Claude**](https://claude.ai/) — Modelo de linguagem avançado da Anthropic, usado para gerar e revisar código, textos e componentes de interface com alta contextualização.
@@ -722,12 +722,14 @@ Landing pages são páginas únicas projetadas para um objetivo específico — 
 - Inclui prova social (testemunhos, logotipos, avaliações) que aumentem a confiança;
 ```
 
-A seguir, apresentamos algumas landing pages reais que podem servir como referência:
+```{admonition} Algumas landing pages reais que podem servir como referência:
+:class: tip
 
 - [**My Group Metrics**](https://mygroupmetrics.com/) — oferece ferramentas para engajamento de comunidades virtuais e mostra claramente sua proposta de valor já na página de destino.  
 - [**Jasper**](https://www.jasper.ai/) — plataforma de IA para criação de conteúdo, com landing page otimizada para comunicar rapidamente o benefício “crie conteúdo com IA”.  
 - [**Deckspeed**](https://www.deckspeed.com/) — ferramenta de IA que gera slides profissionais; sua landing page demonstra o produto em ação e facilita a experimentação. 
-- [**First Quadrant**](https://firstquadrant.ai/) — empresa de IA que usa sua landing page para posicionar serviços, demonstrar credibilidade e captar leads qualificados.  
+- [**First Quadrant**](https://firstquadrant.ai/) — empresa de IA que usa sua landing page para posicionar serviços, demonstrar credibilidade e captar leads qualificados.
+```
 
 Esses exemplos ajudam a visualizar **como estruturar** sua própria landing page e **que aspectos priorizar** para que ela realmente converta.
 
