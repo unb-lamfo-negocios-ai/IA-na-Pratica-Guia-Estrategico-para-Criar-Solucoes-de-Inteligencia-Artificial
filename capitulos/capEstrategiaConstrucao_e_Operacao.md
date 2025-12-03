@@ -83,9 +83,11 @@ Mesmo que a IA não seja o produto principal, ela pode ser um componente crític
     
 Portanto, a decisão se alinha a um espectro: começa com o uso de uma API pronta (Buy), avança para o ajuste fino de um modelo open-source (um híbrido de Buy+Build) e pode chegar à construção de um modelo customizado (Build puro). A escolha correta depende de onde a empresa precisa, estrategicamente, ser não apenas boa, mas excepcionalmente única.
 
-:::{exemplo} Exemplo de um modelo híbrido
+```{admonition} Exemplo de um modelo híbrido
+:class: exemplo
+
 Um banco pode comprar um serviço de reconhecimento facial via API (buy), mas desenvolver internamente um motor de decisão de crédito com base em seu histórico exclusivo de clientes (build).  
-:::
+```
 
 Para finalizar, apresentamos a seguir **características comparativas entre as abordagens Build e Buy** no desenvolvimento de soluções com IA:
 
