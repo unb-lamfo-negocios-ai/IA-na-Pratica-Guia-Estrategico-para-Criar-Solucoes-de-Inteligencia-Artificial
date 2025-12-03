@@ -144,7 +144,7 @@ Este material foi feito para você!
 Sempre que encontrar um conceito desafiador neste livro, consulte os materiais de apoio e faça paralelos com exemplos da sua realidade. A melhor forma de entender IA é **relacionando teoria, prática e impacto social**.
 :::
 
-# Assuntos Fora do Escopo Deste Livro
+## Assuntos Fora do Escopo Deste Livro
 
 Embora este material apresente uma base sólida para trabalhar com Inteligência Artificial aplicada, diversos temas importantes — especialmente de natureza teórica, avançada ou de pesquisa — **não foram abordados**. Entre eles:
 
