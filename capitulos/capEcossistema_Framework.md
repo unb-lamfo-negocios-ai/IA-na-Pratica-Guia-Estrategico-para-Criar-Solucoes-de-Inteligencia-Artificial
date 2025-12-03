@@ -201,8 +201,6 @@ name: gif_langflow
 ---EExemplo de componente de busca no Langflow Fonte: {cite}`herrera2025langflow`
 ```
 
-COLOCAR O GIFF DO LANGFLOW FUNCIONANDO AQUI - [exemplo de giff](https://www.linkedin.com/posts/rodrigo-nader-673163bb_langflows-new-advanced-parser-powered-by-ugcPost-7379371424571899905-aCrD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACdqe7IB_zfpFo5iAbyxrFHxEN3NmopwdJc)
-
 A plataforma democratiza o acesso a conceitos poderosos de IA, como agentes, RAG e orquestração de múltiplas ferramentas, tornando-os tangíveis e manipuláveis sem a necessidade de um conhecimento profundo em programação. Essencialmente, o LangFlow acelera o ciclo de vida do desenvolvimento de IA ao permitir que as equipas transformem rapidamente ideias em protótipos funcionais, testem diferentes configurações e iterem sobre a lógica da aplicação com um esforço mínimo.
 
 A natureza visual do LangFlow traz benefícios que vão além da aceleração do desenvolvimento individual. Ela transforma a **dinâmica colaborativa em equipes multidisciplinares** e reduz falhas de comunicação entre áreas técnicas e de negócio.
