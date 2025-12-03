@@ -90,7 +90,7 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 - **Comunidades, cursos e vídeos recomendados**: aceleram aprendizado contínuo e networking.
 - **Newsletters, blogs e fontes de notícias confiáveis**: mantêm atualização diária sobre avanços e inovações em IA.
 
-Ao final, você encontrará também a seção de [**Referências Bibliográficas**](referencia), com as obras utilizadas, e o espaço [**Conheça os Autores**]{Sobre_os_Autores}.  
+Ao final, você encontrará também a seção de [**Referências Bibliográficas**](referencia), com as obras utilizadas, e o espaço [**Conheça os Autores**](Sobre_os_Autores).  
 
 ## Conhecimentos prévios necessários
 
