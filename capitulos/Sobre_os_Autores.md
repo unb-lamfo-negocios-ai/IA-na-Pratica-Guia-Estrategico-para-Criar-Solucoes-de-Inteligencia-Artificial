@@ -177,7 +177,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
       <img src="./images/victor.jpg" alt="Victor Rafael Rezende Celestino" width="160"><br>
       <strong>Victor Rafael Rezende Celestino</strong><br>
       <em>Participação no ebook:</em> autor e coordenador de concepção da obra<br>
-      <a href="https://www.linkedin.com/in/maisamelo/">LinkedIn</a>
+      <a href="[https://www.linkedin.com/in/maisamelo/](https://www.linkedin.com/in/victor-rafael-r-celestino-47ab9b/)">LinkedIn</a>
     </td>
     <td width="70%">
       Victor Rafael Rezende Celestino é Professor Adjunto na Universidade de Brasília (UnB), no Departamento de Administração (ADM/FACE). Possui graduação e mestrado em Engenharia Aeronáutica pelo ITA e doutorado em Psicologia pela UCB, com formação complementar em regulação, estratégia organizacional e engenharia de ensaios em voo. Membro do LAMFO/UnB e cofundador da OtimizAI, atua com aplicações de aprendizado de máquina, ciência de dados, computação paralela, estatística multivariada e IA em finanças, organizações e fatores humanos no trabalho. 
