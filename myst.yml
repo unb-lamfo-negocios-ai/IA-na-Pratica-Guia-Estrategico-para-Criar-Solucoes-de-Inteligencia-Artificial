@@ -13,7 +13,6 @@ project:
   toc:
     - file: intro.md
     - file: capitulos/capComoUsarEsteEbook.md
-    - file: capitulos/capComoUsarEsteEbook
     - file: capitulos/capFundamentos_de_IA
     - file: capitulos/capArquiteturasTecnologias_ComponentesTecnicos
     - file: capitulos/cap2MCP
