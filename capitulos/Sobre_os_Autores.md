@@ -65,17 +65,26 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 <table>
   <tr>
-    <td width="30%">
-      <img src="./images/autores/eric.jpg" alt="Eric Raniere Costa" width="160"><br>
-      <strong>Eric Raniere Costa</strong><br>
-      <em>Participação no ebook:</em> autor e consultor técnico editorial<br>
-      <a href="https://www.linkedin.com/in/ericraniere/">LinkedIn</a>
+    <td width="30%" style="vertical-align: top;">
+      <div style="margin-bottom: 10px; text-align: center;">
+        <img src="../imagens/eric.jpg" 
+             alt="Eric Raniere Costa"
+             width="160">
+      </div>
+      <div>
+        <strong>Eric Raniere Costa</strong><br>
+        <em>Participação no ebook:</em> autor e consultor técnico editorial<br>
+        <a href="https://www.linkedin.com/in/ericraniere/">LinkedIn</a>
+      </div>
     </td>
-    <td width="70%">
-      Eric Raniere Costa é formado em Relações Internacionais, com pós-graduação em Administração de Empresas e MBA em Big Data e Data Science pela FIAP. Membro do LAMFO/UnB, atua há mais de 10 anos com análise de dados, inteligência de negócios e modernização de processos. Tem experiência na construção e automação de dashboards e relatórios analíticos utilizando Power BI, SQL e Python, com foco em suporte à tomada de decisão estratégica. 
+    <td width="70%" style="vertical-align: top; padding-left: 15px;">
+      Eric Raniere Costa é formado em Relações Internacionais, com pós-graduação em Administração de Empresas e MBA em Big Data e Data Science pela FIAP. 
+      Membro do LAMFO/UnB, atua há mais de 10 anos com análise de dados, inteligência de negócios e modernização de processos. Tem experiência na 
+      construção e automação de dashboards e relatórios analíticos utilizando Power BI, SQL e Python, com foco em suporte à tomada de decisão estratégica.
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -84,7 +93,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/felipe.png" alt="Felipe Tavares Loureiro" width="160"><br>
+      <img src="../imagens/felipe.png" alt="Felipe Tavares Loureiro" width="160"><br>
       <strong>Felipe Tavares Loureiro</strong><br>
       <em>Participação no ebook:</em> autor<br>
       <a href="https://www.linkedin.com/in/felipe-loureiro-7928431b1/">LinkedIn</a>
@@ -102,7 +111,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/gabriel.jpg" alt="Gabriel Tucci" width="160"><br>
+      <img src="../imagens/gabriel.jpg" alt="Gabriel Tucci" width="160"><br>
       <strong>Gabriel Tucci</strong><br>
       <em>Participação no ebook:</em> autor<br>
       <a href="https://www.linkedin.com/in/gabriel-tucci/">LinkedIn</a>
@@ -120,7 +129,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/maisa.jpg" alt="Maísa Kely de Melo" width="160"><br>
+      <img src="../imagens/maisa.jpg" alt="Maísa Kely de Melo" width="160"><br>
       <strong>Maísa Kely de Melo</strong><br>
       <em>Participação no ebook:</em> autora e coordenadora editorial<br>
       <a href="https://www.linkedin.com/in/maisamelo/">LinkedIn</a>
@@ -138,7 +147,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/mateus.jpg" alt="Mateus Macedo" width="160"><br>
+      <img src="../imagens/mateus.jpg" alt="Mateus Macedo" width="160"><br>
       <strong>Mateus Macedo</strong><br>
       <em>Participação no ebook:</em> autor<br>
       <a href="https://www.linkedin.com/in/mateus--macedo/">LinkedIn</a>
@@ -156,7 +165,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/paulo.png" alt="Paulo de Oliveira Gontijo" width="160"><br>
+      <img src="../imagens/paulo.png" alt="Paulo de Oliveira Gontijo" width="160"><br>
       <strong>Paulo de Oliveira Gontijo</strong><br>
       <em>Participação no ebook:</em> autor<br>
       <a href="https://www.linkedin.com/in/paulo-de-oliveirag/">LinkedIn</a>
@@ -174,7 +183,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%">
-      <img src="./images/victor.jpg" alt="Victor Rafael Rezende Celestino" width="160"><br>
+      <img src="../imagens/victor.jpg" alt="Victor Rafael Rezende Celestino" width="160"><br>
       <strong>Victor Rafael Rezende Celestino</strong><br>
       <em>Participação no ebook:</em> autor e coordenador de concepção da obra<br>
       <a href="https://www.linkedin.com/in/victor-rafael-r-celestino-47ab9b/">LinkedIn</a>
