@@ -177,6 +177,31 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ---
 
+### Silvia Araújo dos Reis
+
+<table>
+  <tr>
+    <td width="30%" style="vertical-align: top;">
+      <div style="text-align: center; margin-bottom: 10px;">
+        <img src="../imagens/silvia.png" 
+             alt="Eric Raniere Costa"
+             style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px;">
+      </div>
+      <div style="text-align: center;">
+        <strong>Silvia Araújo dos Reis</strong><br>
+        <em>Participação no ebook:</em> autora e revisora final<br>
+        <a href="https://www.linkedin.com/in/ericraniere/">LinkedIn</a>
+      </div>
+    </td>
+    <td width="70%" style="vertical-align: top; padding-left: 15px;">
+     Sílvia Araújo dos Reis é Doutora e Mestre em Engenharia de Produção pela PUC-Rio, com ênfase em Logística. Professora Associada da FACE/UnB e docente do Programa de Pós-Graduação em Agronegócios, atua em modelagem matemática e otimização, com foco em apoio à decisão no setor público e na logística de suprimentos. Lidera o grupo GOMETA e integra o LAMFO/UnB, contribuindo em projetos interdisciplinares com IA e análise de dados.
+    </td>
+  </tr>
+</table>
+
+---
+
+
 ### Victor Rafael Rezende Celestino
 
 <table>
