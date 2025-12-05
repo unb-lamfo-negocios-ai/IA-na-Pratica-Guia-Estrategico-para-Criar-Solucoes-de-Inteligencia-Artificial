@@ -66,12 +66,12 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 <table>
   <tr>
     <td width="30%" style="vertical-align: top;">
-      <div style="margin-bottom: 10px; text-align: center;">
+      <div style="text-align: center; margin-bottom: 10px;">
         <img src="../imagens/eric.jpg" 
              alt="Eric Raniere Costa"
-             width="160">
+             style="max-width: 100%; height: auto; border-radius: 4px;">
       </div>
-      <div>
+      <div style="text-align: center;">
         <strong>Eric Raniere Costa</strong><br>
         <em>Participação no ebook:</em> autor e consultor técnico editorial<br>
         <a href="https://www.linkedin.com/in/ericraniere/">LinkedIn</a>
@@ -84,7 +84,6 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
     </td>
   </tr>
 </table>
-
 
 ---
 
