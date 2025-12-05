@@ -89,7 +89,7 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 - **Documentações técnicas de plataformas de IA**: fornecem materiais oficiais e sempre atualizados.
 - **Comunidades, cursos e vídeos recomendados**: aceleram aprendizado contínuo e networking.
 - **Newsletters, blogs e fontes de notícias confiáveis**: mantêm atualização diária sobre avanços e inovações em IA.
-8. [**Conheça os Autores**](Sobre_os_Autores)
+8. [**Quem Somos e de Onde Viemos**](Sobre_os_Autores)
 - **LAMFO / Universidade de Brasília**: laboratório especializado em IA, finanças e otimização, reconhecido pela produção científica e desenvolvimento de tecnologias aplicadas.
 - **OtimizAI**: startup orientada à construção de soluções inteligentes e automação com IA, focada em ecossistemas documentais, agentes generativos e inovação corporativa.
 - **Perfil dos autores**: descrição dos autores, suas formações, atuações e contribuições específicas para a obra, situando o leitor sobre a diversidade de expertises envolvidas.
