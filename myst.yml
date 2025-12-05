@@ -21,7 +21,6 @@ project:
     - file: capitulos/capEcossistema_Framework.md
     - file: capitulos/capn8n.md
     - file: capitulos/capRecursosDeApoio.md
-    - file: capitulos/referencia.md
     - file: capitulos/Sobre_os_Autores.md
 site:
   options:
