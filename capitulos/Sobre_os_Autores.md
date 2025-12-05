@@ -69,7 +69,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
       <div style="text-align: center; margin-bottom: 10px;">
         <img src="../imagens/eric.jpg" 
              alt="Eric Raniere Costa"
-             style="max-width: 100%; height: auto; border-radius: 4px;">
+             style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px;">
       </div>
       <div style="text-align: center;">
         <strong>Eric Raniere Costa</strong><br>
