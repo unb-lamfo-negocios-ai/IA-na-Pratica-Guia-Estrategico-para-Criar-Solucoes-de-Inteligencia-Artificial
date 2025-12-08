@@ -68,13 +68,14 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 :::{grid-item}
 :columns: 3
-
-<img src="../imagens/allan.jpeg" 
-     alt="Allan Victor Almeida Faria" 
-     style="width: 100%; border-radius: 12px; display: block; margin: 0 auto;">
+```{image} ../imagens/allan.jpeg
+:alt: Allan Victor Almeida Faria
+:width: 60%
+:align: center
+```
 
 **Allan Victor Almeida Faria**  
-*Participação no ebook:* autor e consultor técnico editorial  
+*Participação no ebook:* autor e consultor técnico editorial   
 [LinkedIn](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/)
 :::
 
@@ -86,30 +87,34 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 
 ::::
 
+
 ---
 ### Eric Raniere Costaa
 
-<table>
-  <tr>
-    <td width="30%" style="vertical-align: top;">
-      <div style="text-align: center; margin-bottom: 10px;">
-        <img src="../imagens/eric.jpg" 
-             alt="Eric Raniere Costa"
-             style="width: 160px; height: 160px; object-fit: cover; border-radius: 8px;">
-      </div>
-      <div style="text-align: center;">
-        <strong>Eric Raniere Costa</strong><br>
-        <em>Participação no ebook:</em> autor e consultor técnico editorial<br>
-        <a href="https://www.linkedin.com/in/ericraniere/">LinkedIn</a>
-      </div>
-    </td>
-    <td width="70%" style="vertical-align: top; padding-left: 15px;">
-      Eric Raniere Costa é formado em Relações Internacionais, com pós-graduação em Administração de Empresas e MBA em Big Data e Data Science pela FIAP. 
-      Membro do LAMFO/UnB, atua há mais de 10 anos com análise de dados, inteligência de negócios e modernização de processos. Tem experiência na 
-      construção e automação de dashboards e relatórios analíticos utilizando Power BI, SQL e Python, com foco em suporte à tomada de decisão estratégica.
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/eric.jpg
+:alt: Eric Raniere Costa
+:width: 60%
+:align: center
+```
+
+**Eric Raniere Costa**  
+*Participação no ebook:* autor e consultor técnico editorial   
+[LinkedIn](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Eric Raniere Costa é formado em Relações Internacionais, com pós-graduação em Administração de Empresas e MBA em Big Data e Data Science pela FIAP. Membro do LAMFO/UnB, atua há mais de 10 anos com análise de dados, inteligência de negócios e modernização de processos. Tem experiência na  construção e automação de dashboards e relatórios analíticos utilizando Power BI, SQL e Python, com foco em suporte à tomada de decisão estratégica.
+
+:::
+
+::::
 
 ---
 
