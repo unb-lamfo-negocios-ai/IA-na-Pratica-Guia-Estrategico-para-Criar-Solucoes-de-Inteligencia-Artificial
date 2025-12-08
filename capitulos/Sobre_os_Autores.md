@@ -69,7 +69,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
       <div style="text-align: center; margin-bottom: 10px;">
         <img src="../imagens/allan.jpeg" 
              alt="Allan Victor Almeida Faria"
-             style="width: 160px; height: 160px; object-fit: cover; border-radius: 8px;">
+             style="width: 250px; height: 250px; object-fit: cover; border-radius: 8px;">
       </div>
       <div style="text-align: center;">
         <strong>Allan Victor Almeida Faria</strong><br>
