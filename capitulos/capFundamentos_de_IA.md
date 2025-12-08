@@ -162,23 +162,14 @@ Um LLM, como o GPT-4 da OpenAI, pode ser visto como um motor de alto desempenho,
 Concluindo, podemos dizer que a hierarquia da Inteligência Artificial pode ser entendida como um sistema de camadas interligadas, onde cada nível representa uma especialização maior do anterior, conforme ilustrado na imagem a seguir:
 
 
-<figure style="text-align: center;">
+```{figure} ../imagens/mundo_da_ia.png
+---
+height: 250px
+name: directive-fig
+---
+Organização Hierárquica dos Sistemas de Inteligência Artificial. Fonte: Adaptado de {cite}`ukgov2024genai`.
+```
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="../imagens/mundo_da_ia1.png" 
-         alt="Imagem 1" 
-         style="width: 220px; height: auto; border-radius: 8px;">
-
-    <img src="../imagens/mundo_da_ia2.png" 
-         alt="Imagem 2" 
-         style="width: 220px; height: auto; border-radius: 8px;">
-  </div>
-
-  <figcaption style="margin-top: 10px; font-size: 0.9em;">
-    Organização Hierárquica dos Sistemas de Inteligência Artificial. Fonte: Adaptado de <code>{cite}`ukgov2024genai`</code>.
-  </figcaption>
-
-</figure>
 
 
 - **Machine Learning (Aprendizado de Máquina)**: representa a base da IA, com algoritmos capazes de aprender automaticamente a partir de conjuntos de dados, identificando padrões e fazendo previsões sem programação explícita.
