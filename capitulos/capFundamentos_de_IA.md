@@ -175,7 +175,7 @@ Concluindo, podemos dizer que a hierarquia da Inteligência Artificial pode ser 
   </div>
 
   <figcaption style="margin-top: 10px; font-size: 0.9em;">
-    Organização Hierárquica dos Sistemas de Inteligência Artificial. Fonte: Adaptado de {cite}`ukgov2024genai`.
+    Organização Hierárquica dos Sistemas de Inteligência Artificial. Fonte: Adaptado de <code>{cite}`ukgov2024genai`</code>.
   </figcaption>
 
 </figure>
