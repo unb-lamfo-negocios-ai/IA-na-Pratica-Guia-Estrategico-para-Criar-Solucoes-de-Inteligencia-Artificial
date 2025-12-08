@@ -61,7 +61,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ## Sobre os Autores
 
-### Allan Victor Almeida Faria
+### Allan Victor Almeida Fariaa
 
 ::::{grid} 1 1 2 2
 :gutter: 3
