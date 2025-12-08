@@ -61,7 +61,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ## Sobre os Autores
 
-### Eric Raniere Costa
+### Eric Raniere Costaa
 
 <table>
   <tr>
