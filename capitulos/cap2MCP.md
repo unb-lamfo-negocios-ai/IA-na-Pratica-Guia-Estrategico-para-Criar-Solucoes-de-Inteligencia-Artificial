@@ -194,7 +194,7 @@ A arquitetura central do MCP se baseia em uma estrutura cliente-servidor robusta
 
 
 
-```{figure} ../imagens/client_server_arq.jpeg
+```{figure} ../imagens/client_server_arq.png
 ---height: 150px
 name: client_server_arq_
 ---EExemplo visual da arquitetura. Fonte: Adaptado de {cite}`deeplearningai2024mcp`
