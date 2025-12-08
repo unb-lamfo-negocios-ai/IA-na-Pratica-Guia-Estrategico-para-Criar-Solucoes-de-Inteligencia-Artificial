@@ -61,6 +61,30 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ## Sobre os Autores
 
+### Allan Victor Almeida Faria
+
+<table>
+  <tr>
+    <td width="30%" style="vertical-align: top;">
+      <div style="text-align: center; margin-bottom: 10px;">
+        <img src="../imagens/allan.jpeg" 
+             alt="Allan Victor Almeida Faria"
+             style="width: 160px; height: 160px; object-fit: cover; border-radius: 8px;">
+      </div>
+      <div style="text-align: center;">
+        <strong>Allan Victor Almeida Faria</strong><br>
+        <em>Participação no ebook:</em> autor e consultor técnico editorial<br>
+        <a href="https://www.linkedin.com/in/ericraniere/](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/">LinkedIn</a>
+      </div>
+    </td>
+    <td width="70%" style="vertical-align: top; padding-left: 15px;">
+     Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estatística pela Universidade de Brasília (UnB), com experiência em pesquisa nas áreas de probabilidade, estatística e ciência da computação. Atua com ênfase em estatística aplicada à inteligência artificial, especialmente em métodos de otimização neural e no desenvolvimento de arquiteturas computacionais voltadas para sistemas inteligentes.
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Eric Raniere Costaa
 
 <table>
