@@ -68,11 +68,10 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 :::{grid-item}
 :columns: 3
-```{image} ../imagens/allan.jpeg
-:alt: Allan Victor Almeida Faria
-:width: 60%
-:align: center
-```
+
+<img src="../imagens/allan.jpeg" 
+     alt="Allan Victor Almeida Faria" 
+     style="width: 100%; border-radius: 12px; display: block; margin: 0 auto;">
 
 **Allan Victor Almeida Faria**  
 *Participação no ebook:* autor e consultor técnico editorial  
