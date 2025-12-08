@@ -148,134 +148,202 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ### Felipe Tavares Loureiro
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="../imagens/felipe.png" alt="Felipe Tavares Loureiro" width="160"><br>
-      <strong>Felipe Tavares Loureiro</strong><br>
-      <em>Participação no ebook:</em> autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
-      <a href="https://www.linkedin.com/in/felipe-loureiro-7928431b1/">LinkedIn</a>
-    </td>
-    <td width="70%">
-      Felipe Tavares Loureiro é graduando em Engenharia Mecânica na Universidade de Brasília (UnB) e membro do LAMFO/UnB, onde desenvolve pesquisa em inteligência artificial aplicada a finanças e organizações. Participa de projetos acadêmicos, de extensão e voluntariado, integrando visão técnica a contextos reais de uso de IA. Além da atuação universitária, trabalha como fotógrafo desde 2018, com experiência em eventos, retratos e projetos autorais. No ebook, contribuiu como autor, especialmente na sistematização de exemplos práticos e na conexão entre aplicações de IA e desafios do mundo real.
-    </td>
-  </tr>
-</table>
+<::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/felipe.png
+:alt: Felipe Tavares Loureiro
+:width: 60%
+:align: center
+```
+
+**Felipe Tavares Loureiro**  
+*Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso   
+[LinkedIn](https://www.linkedin.com/in/felipe-loureiro-7928431b1/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Felipe Tavares Loureiro é graduando em Engenharia Mecânica na Universidade de Brasília (UnB) e membro do LAMFO/UnB, onde desenvolve pesquisa em inteligência artificial aplicada a finanças e organizações. Participa de projetos acadêmicos, de extensão e voluntariado, integrando visão técnica a contextos reais de uso de IA. Além da atuação universitária, trabalha como fotógrafo desde 2018, com experiência em eventos, retratos e projetos autorais. No ebook, contribuiu como autor, especialmente na sistematização de exemplos práticos e na conexão entre aplicações de IA e desafios do mundo real.
+
+:::
+
+::::
+
 
 ---
 
 ### Gabriel Tucci
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="../imagens/gabriel.jpg" alt="Gabriel Tucci" width="160"><br>
-      <strong>Gabriel Tucci</strong><br>
-      <em>Participação no ebook:</em> autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
-      <a href="https://www.linkedin.com/in/gabriel-tucci/">LinkedIn</a>
-    </td>
-    <td width="70%">
-      Gabriel Tucci é graduando em Ciências Econômicas na UnB e membro do LAMFO/UnB, com experiência em consultoria estratégica, análise de dados e gestão de projetos. Atuou na Econsult em pesquisas de mercado, estudos de viabilidade, valuation e análises financeiras, sendo reconhecido como Membro Destaque. Atualmente, dedica-se ao estudo de Inteligência Artificial e Finanças, conciliando sua atuação no LAMFO com estágio na Plano Capital, onde realiza projeções e análises financeiras. 
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/gabriel.jpg
+:alt: Gabriel Tucci
+:width: 60%
+:align: center
+```
+
+**Gabriel Tucci**  
+*Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso   
+[LinkedIn](https://www.linkedin.com/in/felipe-loureiro-7928431b1/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Gabriel Tucci é graduando em Ciências Econômicas na UnB e membro do LAMFO/UnB, com experiência em consultoria estratégica, análise de dados e gestão de projetos. Atuou na Econsult em pesquisas de mercado, estudos de viabilidade, valuation e análises financeiras, sendo reconhecido como Membro Destaque. Atualmente, dedica-se ao estudo de Inteligência Artificial e Finanças, conciliando sua atuação no LAMFO com estágio na Plano Capital, onde realiza projeções e análises financeiras.
+
+:::
+
+::::
 
 ---
 
 ### Maísa Kely de Melo
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="../imagens/maisa.jpg" alt="Maísa Kely de Melo" width="160"><br>
-      <strong>Maísa Kely de Melo</strong><br>
-      <em>Participação no ebook:</em> autora e coordenadora editorial<br>
-      <a href="https://www.linkedin.com/in/maisamelo/">LinkedIn</a>
-    </td>
-    <td width="70%">
-      Maísa Kely de Melo é graduada em Matemática, com mestrado em Matemática Pura e doutorado em Modelagem Matemática e Computacional. Professora do IFMG Campus Formiga, é pesquisadora e membro do LAMFO/UnB, atuando em projetos de IA aplicada, ciência de dados e análise de políticas públicas. Cofundadora da OtimizAI, trabalha no desenho conceitual e técnico de soluções baseadas em IA generativa, NLP e vetorização semântica. 
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/maisa.jpg
+:alt: Maísa Kely de Melo
+:width: 60%
+:align: center
+```
+
+**Maísa Kely de Melo**  
+*Participação no ebook:* autora e coordenadora editorial
+[LinkedIn](https://www.linkedin.com/in/maisamelo/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Maísa Kely de Melo é graduada em Matemática, com mestrado em Matemática Pura e doutorado em Modelagem Matemática e Computacional. Professora do IFMG Campus Formiga, é pesquisadora e membro do LAMFO/UnB, atuando em projetos de IA aplicada, ciência de dados e análise de políticas públicas. Cofundadora da OtimizAI, trabalha no desenho conceitual e técnico de soluções baseadas em IA generativa, NLP e vetorização semântica.
+:::
+
+::::
 
 ---
 
 ### Mateus Macedo
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="../imagens/mateus.jpg" alt="Mateus Macedo" width="160"><br>
-      <strong>Mateus Macedo</strong><br>
-      <em>Participação no ebook:</em> autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
-      <a href="https://www.linkedin.com/in/mateus--macedo/">LinkedIn</a>
-    </td>
-    <td width="70%">
-      Mateus Macedo é graduando em Ciências Econômicas na UnB e membro do LAMFO/UnB, com forte interesse em análise de dados, machine learning e inteligência artificial aplicados à sustentabilidade, economia e setor financeiro. Vem desenvolvendo competências em Python e em ferramentas de análise de dados, com foco em aprendizado de máquina e aplicações quantitativas. 
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/mateus.jpg
+:alt: Mateus Macedo
+:width: 60%
+:align: center
+```
+
+**Mateus Macedo**  
+*Participação no ebook:* autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso
+[LinkedIn](https://www.linkedin.com/in/mateus--macedo/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Mateus Macedo é graduando em Ciências Econômicas na UnB e membro do LAMFO/UnB, com forte interesse em análise de dados, machine learning e inteligência artificial aplicados à sustentabilidade, economia e setor financeiro. Vem desenvolvendo competências em Python e em ferramentas de análise de dados, com foco em aprendizado de máquina e aplicações quantitativas. 
+:::
+
+::::
 
 ---
 
 ### Paulo de Oliveira Gontijo
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="../imagens/paulo.png" alt="Paulo de Oliveira Gontijo" width="160"><br>
-      <strong>Paulo de Oliveira Gontijo</strong><br>
-      <em>Participação no ebook:</em> autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
-      <a href="https://www.linkedin.com/in/paulo-de-oliveirag/">LinkedIn</a>
-    </td>
-    <td width="70%">
-      Paulo de Oliveira Gontijo é graduando em Engenharia Civil pela UnB e pesquisador no LAMFO/UnB, com atuação em machine learning aplicado a finanças e organizações. Fundador da Construtora Oliveira Gontijo, desenvolveu experiência em gestão, vendas e operações, combinando visão empresarial com formação técnica em programação (JavaScript, HTML/CSS e Python) e negócios (G4 Educação). 
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/paulo.jpg
+:alt: Paulo de Oliveira Gontijo
+:width: 60%
+:align: center
+```
+
+**Paulo de Oliveira Gontijo**  
+*Participação no ebook:* autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso
+[LinkedIn](https://www.linkedin.com/in/paulo-de-oliveirag/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Paulo de Oliveira Gontijo é graduando em Engenharia Civil pela UnB e pesquisador no LAMFO/UnB, com atuação em machine learning aplicado a finanças e organizações. Fundador da Construtora Oliveira Gontijo, desenvolveu experiência em gestão, vendas e operações, combinando visão empresarial com formação técnica em programação (JavaScript, HTML/CSS e Python) e negócios (G4 Educação). 
+:::
+
+::::
 
 ---
 
 ### Silvia Araújo dos Reis
 
-<table>
-  <tr>
-    <td width="30%" style="vertical-align: top;">
-      <div style="text-align: center; margin-bottom: 10px;">
-        <img src="../imagens/silvia.png" 
-             alt="Eric Raniere Costa"
-             style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px;">
-      </div>
-      <div style="text-align: center;">
-        <strong>Silvia Araújo dos Reis</strong><br>
-        <em>Participação no ebook:</em> autora e revisora final<br>
-        <a href="https://www.linkedin.com/in/ericraniere/">LinkedIn</a>
-      </div>
-    </td>
-    <td width="70%" style="vertical-align: top; padding-left: 15px;">
-     Sílvia Araújo dos Reis é Doutora e Mestre em Engenharia de Produção pela PUC-Rio, com ênfase em Logística. Professora Associada da FACE/UnB e docente do Programa de Pós-Graduação em Agronegócios, atua em modelagem matemática e otimização, com foco em apoio à decisão no setor público e na logística de suprimentos. Lidera o grupo GOMETA e integra o LAMFO/UnB, contribuindo em projetos interdisciplinares com IA e análise de dados.
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/silvia.png
+:alt: Silvia Araújo dos Reis
+:width: 60%
+:align: center
+```
+
+**Silvia Araújo dos Reis**  
+*Participação no ebook:* autora e revisora final
+[LinkedIn](https://www.linkedin.com/in/silvia-reis-598196a6/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Sílvia Araújo dos Reis é Doutora e Mestre em Engenharia de Produção pela PUC-Rio, com ênfase em Logística. Professora Associada da FACE/UnB e docente do Programa de Pós-Graduação em Agronegócios, atua em modelagem matemática e otimização, com foco em apoio à decisão no setor público e na logística de suprimentos. Lidera o grupo GOMETA e integra o LAMFO/UnB, contribuindo em projetos interdisciplinares com IA e análise de dados.
+:::
+
+::::
 
 ---
 
 
 ### Victor Rafael Rezende Celestino
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="../imagens/victor.jpg" alt="Victor Rafael Rezende Celestino" width="160"><br>
-      <strong>Victor Rafael Rezende Celestino</strong><br>
-      <em>Participação no ebook:</em> autor e coordenador de concepção da obra<br>
-      <a href="https://www.linkedin.com/in/victor-rafael-r-celestino-47ab9b/">LinkedIn</a>
-    </td>
-    <td width="70%">
-      Victor Rafael Rezende Celestino é Professor Adjunto na Universidade de Brasília (UnB), no Departamento de Administração (ADM/FACE). Possui graduação e mestrado em Engenharia Aeronáutica pelo ITA e doutorado em Psicologia pela UCB, com formação complementar em regulação, estratégia organizacional e engenharia de ensaios em voo. Membro do LAMFO/UnB e cofundador da OtimizAI, atua com aplicações de aprendizado de máquina, ciência de dados, computação paralela, estatística multivariada e IA em finanças, organizações e fatores humanos no trabalho. 
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/victor.jpg
+:alt: Victor Rafael Rezende Celestino
+:width: 60%
+:align: center
+```
+
+**Victor Rafael Rezende Celestino**  
+*Participação no ebook:* autor e coordenador de concepção da obra
+[LinkedIn](https://www.linkedin.com/in/victor-rafael-r-celestino-47ab9b/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+  Victor Rafael Rezende Celestino é Professor Adjunto na Universidade de Brasília (UnB), no Departamento de Administração (ADM/FACE). Possui graduação e mestrado em Engenharia Aeronáutica pelo ITA e doutorado em Psicologia pela UCB, com formação complementar em regulação, estratégia organizacional e engenharia de ensaios em voo. Membro do LAMFO/UnB e cofundador da OtimizAI, atua com aplicações de aprendizado de máquina, ciência de dados, computação paralela, estatística multivariada e IA em finanças, organizações e fatores humanos no trabalho. 
+:::
+
+::::
+
 
 
 :::{note}
