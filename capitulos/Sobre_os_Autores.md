@@ -260,7 +260,7 @@ Gabriel Tucci é graduando em Ciências Econômicas na UnB e membro do LAMFO/UnB
 
 :::{grid-item}
 :columns: 3
-```{image} ../imagens/paulo.jpg
+```{image} ../imagens/paulo.png
 :alt: Paulo de Oliveira Gontijo
 :width: 60%
 :align: center
