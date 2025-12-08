@@ -74,7 +74,6 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 :align: center
 ```
 
-**Allan Victor Almeida Faria**  
 *Participação no ebook:* autor e consultor técnico editorial   
 [LinkedIn](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/)
 :::
@@ -102,7 +101,6 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 :align: center
 ```
 
-**Eric Raniere Costa**  
 *Participação no ebook:* autor e consultor técnico editorial   
 [LinkedIn](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/)
 :::
@@ -131,7 +129,6 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 :align: center
 ```
 
-**Fausto Barros de Sá Teles**  
 *Participação no ebook:* autor e revisor final  
 [LinkedIn](https://www.linkedin.com/in/faustosateles/)
 :::
@@ -159,7 +156,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-**Felipe Tavares Loureiro**  
 *Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso   
 [LinkedIn](https://www.linkedin.com/in/felipe-loureiro-7928431b1/)
 :::
@@ -189,7 +185,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-**Gabriel Tucci**  
 *Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso   
 [LinkedIn](https://www.linkedin.com/in/felipe-loureiro-7928431b1/)
 :::
@@ -218,7 +213,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-**Maísa Kely de Melo**  
 *Participação no ebook:* autora e coordenadora editorial
 [LinkedIn](https://www.linkedin.com/in/maisamelo/)
 :::
@@ -246,7 +240,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-**Mateus Macedo**  
 *Participação no ebook:* autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso
 [LinkedIn](https://www.linkedin.com/in/mateus--macedo/)
 :::
@@ -274,7 +267,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-**Paulo de Oliveira Gontijo**  
 *Participação no ebook:* autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso
 [LinkedIn](https://www.linkedin.com/in/paulo-de-oliveirag/)
 :::
@@ -302,7 +294,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-**Silvia Araújo dos Reis**  
 *Participação no ebook:* autora e revisora final
 [LinkedIn](https://www.linkedin.com/in/silvia-reis-598196a6/)
 :::
@@ -331,7 +322,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-**Victor Rafael Rezende Celestino**  
 *Participação no ebook:* autor e coordenador de concepção da obra
 [LinkedIn](https://www.linkedin.com/in/victor-rafael-r-celestino-47ab9b/)
 :::
