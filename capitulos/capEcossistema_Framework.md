@@ -407,12 +407,10 @@ No contexto do LangChain, um DAG representa um fluxo de trabalho onde os dados s
 
 ```{figure} ../imagens/langgraph_langchain.png
 ---height: 150px
-name: desc_alternativa
----LEGENDA AQUI
+name: desclanggraph_langchain
+---Diferença dos fluxos de Langchain e Langgraph. Fonte: Adaptado de {cite}`Chopra2025LangChainLangGraph`.
 ```
 
-
-[EXEMPLO DE DIAGRAMA COMPARANDO LANGCHAIN E LANGGRAPH](https://ritik-chopra28.medium.com/langchain-vs-langgraph-the-ai-framework-battle-thats-dividing-developers-81d0fe53503b)
 
 Este fluxo é linear, determinístico e perfeitamente modelado por um DAG. Cada passo flui para o seguinte, e o processo termina com a resposta. Para uma vasta gama de aplicações, desde chatbots de perguntas e respostas até sumarizadores de documentos, essa abordagem é suficiente e robusta.
 
