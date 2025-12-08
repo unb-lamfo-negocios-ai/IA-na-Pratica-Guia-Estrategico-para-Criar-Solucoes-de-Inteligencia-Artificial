@@ -406,9 +406,9 @@ No contexto do LangChain, um DAG representa um fluxo de trabalho onde os dados s
 4. **Geração:** Envia o prompt aumentado para um LLM para gerar a resposta final.
 
 ```{figure} ../imagens/langgraph_langchain.png
----height: 150px
-name: desclanggraph_langchain
----Diferença dos fluxos de Langchain e Langgraph. Fonte: Adaptado de {cite}`Chopra2025LangChainLangGraph`.
+:height: 150px
+:name: desclanggraph_langchain
+Diferença dos fluxos de Langchain e Langgraph. Fonte: Adaptado de {cite}`Chopra2025LangChainLangGraph`.
 ```
 
 
