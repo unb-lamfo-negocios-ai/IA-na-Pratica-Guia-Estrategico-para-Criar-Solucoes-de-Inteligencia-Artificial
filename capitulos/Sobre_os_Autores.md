@@ -145,7 +145,7 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ### Felipe Tavares Loureiro
 
-:::{grid} 1 1 2 2
+::::{grid} 1 1 2 2
 :gutter: 3
 
 :::{grid-item}
@@ -156,19 +156,17 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-*Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso   
+*Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso
 [LinkedIn](https://www.linkedin.com/in/felipe-loureiro-7928431b1/)
 :::
 
 :::{grid-item}
 :columns: 9
 
-Felipe Tavares Loureiro é graduando em Engenharia Mecânica na Universidade de Brasília (UnB) e membro do LAMFO/UnB, onde desenvolve pesquisa em inteligência artificial aplicada a finanças e organizações. Participa de projetos acadêmicos, de extensão e voluntariado, integrando visão técnica a contextos reais de uso de IA. Além da atuação universitária, trabalha como fotógrafo desde 2018, com experiência em eventos, retratos e projetos autorais. No ebook, contribuiu como autor, especialmente na sistematização de exemplos práticos e na conexão entre aplicações de IA e desafios do mundo real.
+ Felipe Tavares Loureiro é graduando em Engenharia Mecânica na Universidade de Brasília (UnB) e membro do LAMFO/UnB, onde desenvolve pesquisa em inteligência artificial aplicada a finanças e organizações. Participa de projetos acadêmicos, de extensão e voluntariado, integrando visão técnica a contextos reais de uso de IA. Além da atuação universitária, trabalha como fotógrafo desde 2018, com experiência em eventos, retratos e projetos autorais. No ebook, contribuiu como autor, especialmente na sistematização de exemplos práticos e na conexão entre aplicações de IA e desafios do mundo real.
 :::
 
 ::::
-
-
 
 ---
 
