@@ -204,7 +204,7 @@ Na prática:
 
 
 
-```{figure} ../imagens/mcp_na_pratica.png
+```{figure} ../imagens/mcp_na_pratica.jpg
 ---height: 150px
 name: mcp_na_pratica_
 ---MCP na prática. Fonte: Adaptado de {cite}`sakal2024mcp`.
