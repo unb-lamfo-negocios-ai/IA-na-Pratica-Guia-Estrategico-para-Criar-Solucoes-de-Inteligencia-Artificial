@@ -67,7 +67,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 :gutter: 3
 
 :::{grid-item}
-:columns: 4
+:columns: 3
 ```{image} ../imagens/allan.jpeg
 :alt: Allan Victor Almeida Faria
 :width: 100%
@@ -80,7 +80,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 :::
 
 :::{grid-item}
-:columns: 8
+:columns: 9
 
 Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estatística pela Universidade de Brasília (UnB), com experiência em pesquisa nas áreas de probabilidade, estatística e ciência da computação. Atua com ênfase em estatística aplicada à inteligência artificial, especialmente em métodos de otimização neural e no desenvolvimento de arquiteturas computacionais voltadas para sistemas inteligentes.
 :::
