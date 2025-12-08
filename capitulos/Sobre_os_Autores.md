@@ -63,28 +63,31 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ### Allan Victor Almeida Faria
 
-<table>
-  <tr>
-    <td width="30%" style="vertical-align: top;">
-      <div style="text-align: center; margin-bottom: 10px;">
-        <img src="../imagens/allan.jpeg" 
-             alt="Allan Victor Almeida Faria"
-             style="width: 250px; height: 250px; object-fit: cover; border-radius: 8px;">
-      </div>
-      <div style="text-align: center;">
-        <strong>Allan Victor Almeida Faria</strong><br>
-        <em>Participação no ebook:</em> autor e consultor técnico editorial<br>
-        <a href="https://www.linkedin.com/in/allan-v-a-faria-33b0a790/">LinkedIn</a>
-      </div>
-    </td>
-    <td width="70%" style="vertical-align: top; padding-left: 15px;">
-     Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estatística pela Universidade de Brasília (UnB), com experiência em pesquisa nas áreas de probabilidade, estatística e ciência da computação. Atua com ênfase em estatística aplicada à inteligência artificial, especialmente em métodos de otimização neural e no desenvolvimento de arquiteturas computacionais voltadas para sistemas inteligentes.
-    </td>
-  </tr>
-</table>
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 4
+```{image} ../imagens/allan.jpeg
+:alt: Allan Victor Almeida Faria
+:width: 100%
+:align: center
+```
+
+**Allan Victor Almeida Faria**  
+*Participação no ebook:* autor e consultor técnico editorial  
+[LinkedIn](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/)
+:::
+
+:::{grid-item}
+:columns: 8
+
+Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estatística pela Universidade de Brasília (UnB), com experiência em pesquisa nas áreas de probabilidade, estatística e ciência da computação. Atua com ênfase em estatística aplicada à inteligência artificial, especialmente em métodos de otimização neural e no desenvolvimento de arquiteturas computacionais voltadas para sistemas inteligentes.
+:::
+
+::::
 
 ---
-
 ### Eric Raniere Costaa
 
 <table>
