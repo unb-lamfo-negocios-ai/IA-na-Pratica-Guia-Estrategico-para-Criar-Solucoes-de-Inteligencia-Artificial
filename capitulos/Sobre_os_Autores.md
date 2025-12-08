@@ -172,7 +172,7 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ### Gabriel Tucci
 
-:::{grid} 1 1 2 2
+::::{grid} 1 1 2 2
 :gutter: 3
 
 :::{grid-item}
@@ -183,14 +183,14 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 :align: center
 ```
 
-*Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso   
+*Participação no ebook:* autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso
 [LinkedIn](https://www.linkedin.com/in/gabriel-tucci/)
 :::
 
 :::{grid-item}
 :columns: 9
 
-Gabriel Tucci é graduando em Ciências Econômicas na UnB e membro do LAMFO/UnB, com experiência em consultoria estratégica, análise de dados e gestão de projetos. Atuou na Econsult em pesquisas de mercado, estudos de viabilidade, valuation e análises financeiras, sendo reconhecido como Membro Destaque. Atualmente, dedica-se ao estudo de Inteligência Artificial e Finanças, conciliando sua atuação no LAMFO com estágio na Plano Capital, onde realiza projeções e análises financeiras.
+ Gabriel Tucci é graduando em Ciências Econômicas na UnB e membro do LAMFO/UnB, com experiência em consultoria estratégica, análise de dados e gestão de projetos. Atuou na Econsult em pesquisas de mercado, estudos de viabilidade, valuation e análises financeiras, sendo reconhecido como Membro Destaque. Atualmente, dedica-se ao estudo de Inteligência Artificial e Finanças, conciliando sua atuação no LAMFO com estágio na Plano Capital, onde realiza projeções e análises financeiras.
 :::
 
 ::::
