@@ -114,6 +114,34 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 
 ---
 
+### Fausto Barros de Sá Teles
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/fausto.jpg
+:alt: Fausto Barros de Sá Teles
+:width: 60%
+:align: center
+```
+
+**Fausto Barros de Sá Teles**  
+*Participação no ebook:* autor e revisor final  
+[LinkedIn](https://www.linkedin.com/in/faustosateles/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É doutorando em Administração (linha Finanças e Métodos Quantitativos) na Universidade de Brasília (UnB), mestre em Poder Legislativo (2020), graduado em Engenharia Elétrica pela UnB (2007) e em Filosofia pela Universidade do Sul de Santa Catarina (2022). É membro do LAMFO/UnB e desenvolve pesquisas com foco em políticas públicas, inteligência artificial e finanças.
+:::
+
+::::
+
+---
+
 ### Felipe Tavares Loureiro
 
 <table>
@@ -121,7 +149,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
     <td width="30%">
       <img src="../imagens/felipe.png" alt="Felipe Tavares Loureiro" width="160"><br>
       <strong>Felipe Tavares Loureiro</strong><br>
-      <em>Participação no ebook:</em> autor<br>
+      <em>Participação no ebook:</em> autor e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
       <a href="https://www.linkedin.com/in/felipe-loureiro-7928431b1/">LinkedIn</a>
     </td>
     <td width="70%">
@@ -139,7 +167,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
     <td width="30%">
       <img src="../imagens/gabriel.jpg" alt="Gabriel Tucci" width="160"><br>
       <strong>Gabriel Tucci</strong><br>
-      <em>Participação no ebook:</em> autor<br>
+      <em>Participação no ebook:</em> autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
       <a href="https://www.linkedin.com/in/gabriel-tucci/">LinkedIn</a>
     </td>
     <td width="70%">
@@ -175,7 +203,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
     <td width="30%">
       <img src="../imagens/mateus.jpg" alt="Mateus Macedo" width="160"><br>
       <strong>Mateus Macedo</strong><br>
-      <em>Participação no ebook:</em> autor<br>
+      <em>Participação no ebook:</em> autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
       <a href="https://www.linkedin.com/in/mateus--macedo/">LinkedIn</a>
     </td>
     <td width="70%">
@@ -193,7 +221,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
     <td width="30%">
       <img src="../imagens/paulo.png" alt="Paulo de Oliveira Gontijo" width="160"><br>
       <strong>Paulo de Oliveira Gontijo</strong><br>
-      <em>Participação no ebook:</em> autor<br>
+      <em>Participação no ebook:</em> autor  e desenvolvedor dos códigos-fonte aplicados nos exemplos e estudos de caso<br>
       <a href="https://www.linkedin.com/in/paulo-de-oliveirag/">LinkedIn</a>
     </td>
     <td width="70%">
