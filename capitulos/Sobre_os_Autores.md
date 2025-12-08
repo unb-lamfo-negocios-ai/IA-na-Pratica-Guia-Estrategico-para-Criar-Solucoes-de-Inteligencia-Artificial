@@ -74,7 +74,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
       <div style="text-align: center;">
         <strong>Allan Victor Almeida Faria</strong><br>
         <em>Participação no ebook:</em> autor e consultor técnico editorial<br>
-        <a href="https://www.linkedin.com/in/ericraniere/](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/allan-v-a-faria-33b0a790/">LinkedIn</a>
       </div>
     </td>
     <td width="70%" style="vertical-align: top; padding-left: 15px;">
