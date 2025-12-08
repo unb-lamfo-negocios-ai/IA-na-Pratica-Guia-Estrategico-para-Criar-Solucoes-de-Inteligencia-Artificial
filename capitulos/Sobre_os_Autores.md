@@ -102,7 +102,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 ```
 
 *Participação no ebook:* autor e consultor técnico editorial   
-[LinkedIn](https://www.linkedin.com/in/allan-v-a-faria-33b0a790/)
+[LinkedIn](https://www.linkedin.com/in/ericraniere/?locale=en)
 :::
 
 :::{grid-item}
