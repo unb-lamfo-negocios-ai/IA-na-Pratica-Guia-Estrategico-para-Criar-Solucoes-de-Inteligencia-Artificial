@@ -165,11 +165,11 @@ Concluindo, podemos dizer que a hierarquia da Inteligência Artificial pode ser 
 <figure style="text-align: center;">
 
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="../imagens/mundo_da_IA.png" 
+    <img src="../imagens/mundo_da_ia1.png" 
          alt="Imagem 1" 
          style="width: 220px; height: auto; border-radius: 8px;">
 
-    <img src="../imagens/mundo_da_IA.png" 
+    <img src="../imagens/mundo_da_ia2.png" 
          alt="Imagem 2" 
          style="width: 220px; height: auto; border-radius: 8px;">
   </div>
