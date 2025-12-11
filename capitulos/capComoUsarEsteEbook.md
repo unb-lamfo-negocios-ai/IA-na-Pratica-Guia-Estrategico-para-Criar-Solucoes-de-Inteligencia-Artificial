@@ -43,6 +43,17 @@ A proposta deste material é **traduzir conceitos técnicos em linguagem clara**
 
 Não é necessário ter experiência prévia em programação — o conteúdo foi desenhado para ser **inclusivo, acessível e prático**, com explicações claras, exemplos do cotidiano e referências para aprofundamento.  
 
+## Conhecimentos prévios recomendados
+
+A IA, em muitos casos, pode ser explorada com **ferramentas intuitivas e interfaces visuais**. Não é preciso saber programar para aproveitar este livro. No entanto, alguns conhecimentos podem ampliar a experiência de leitura:
+
+- **Conceitos básicos de tecnologia e negócios**: entender a lógica de sistemas digitais e de processos organizacionais ajuda a enxergar como a IA pode gerar valor.  
+- **Noções gerais de estatística e análise de dados**: interpretar gráficos, médias e distribuições é útil para compreender os resultados de modelos de aprendizado.  
+- **Familiaridade com ferramentas digitais**: planilhas, softwares de visualização e plataformas de automação já oferecem funcionalidades que se conectam à IA.  
+
+Se algum termo parecer novo ou técnico, não se preocupe: ao longo do texto, fornecemos explicações acessíveis, exemplos do cotidiano e referências para aprofundamento.
+
+
 ## Estrutura do eBook
 
 O livro está dividido em capítulos que seguem uma progressão lógica, mas podem ser lidos de forma independente:  
@@ -67,14 +78,14 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 - **Comunicação JSON-RPC**: garante previsibilidade, compatibilidade e auditabilidade.
 4. [**Capítulo 4 — Estratégias de Construção e Operação**](capEstrategiaConstrucao_e_Operacao)
 - **Buy vs. Build**: orienta decisões estratégicas sobre uso de APIs prontas ou modelos próprios.
-- **Custos, latência e infraestrutura**: determina viabilidade técnica e econômica de soluções de IA.
+- **Custos, latência e infraestrutura**: determinam viabilidade técnica e econômica de soluções de IA.
 - **Modelos de monetização**: define como transformar IA em produto sustentável e escalável.
 - **Arquiteturas híbridas (cloud + on-premise)**: equilibra custo, privacidade e performance.
 - **Governança e segurança**: garante confiabilidade, conformidade e controle operacional.
 5. [**Capítulo 5 — Ecossistema de Ferramentas e Frameworks**](capEcossistema_Framework)
-- **LangChain e orquestração de LLMs**: facilita construção de fluxos complexos, agentes e pipelines.
+- **LangChain e orquestração de LLMs**: facilitam construção de fluxos complexos, agentes e pipelines.
 - **Hugging Face Hub**: oferece modelos, datasets e demos para experimentação imediata.
-- **Frameworks open-source (Llama, Mistral, DeepSeek)**: alternativas flexíveis, econômicas e customizáveis.
+- **Modelos open-source (Llama, Mistral, DeepSeek)**: alternativas flexíveis, econômicas e customizáveis.
 - **Serviços de inferência e otimização**: reduzem custo e aumentam velocidade de execução dos modelos.
 - **Ferramentas de avaliação e monitoramento**: acompanham desempenho, qualidade e segurança do sistema.
 6. [**Capítulo 6 - Integrando com n8n**](capn8n)
@@ -90,65 +101,14 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 - **Comunidades, cursos e vídeos recomendados**: aceleram aprendizado contínuo e networking.
 - **Newsletters, blogs e fontes de notícias confiáveis**: mantêm atualização diária sobre avanços e inovações em IA.
 8. [**Quem Somos e de Onde Viemos**](Sobre_os_Autores)
-- **LAMFO / Universidade de Brasília**: laboratório especializado em IA, finanças e otimização, reconhecido pela produção científica e desenvolvimento de tecnologias aplicadas.
+- **LAMFO / Universidade de Brasília**: laboratório especializado em IA, finanças e otimização, reconhecido pela produção científica e pelo desenvolvimento de tecnologias aplicadas.
 - **OtimizAI**: startup orientada à construção de soluções inteligentes e automação com IA, focada em ecossistemas documentais, agentes generativos e inovação corporativa.
 - **Perfil dos autores**: descrição dos autores, suas formações, atuações e contribuições específicas para a obra, situando o leitor sobre a diversidade de expertises envolvidas.
 
 As referências bibliográficas utilizadas são apresentadas ao final de cada capítulo
 
-## Conhecimentos prévios necessários
 
-Não é preciso ser programador para aproveitar este livro. A IA, em muitos casos, pode ser explorada com **ferramentas intuitivas e interfaces visuais**. No entanto, alguns conhecimentos podem ampliar a experiência de leitura:  
-
-- **Conceitos básicos de tecnologia e negócios**: entender a lógica de sistemas digitais e de processos organizacionais ajuda a enxergar como a IA pode gerar valor.  
-- **Noções gerais de estatística e análise de dados**: interpretar gráficos, médias e distribuições é útil para compreender os resultados de modelos de aprendizado.  
-- **Familiaridade com ferramentas digitais**: planilhas, softwares de visualização e plataformas de automação já oferecem funcionalidades que se conectam à IA.  
-
-Se algum termo parecer novo ou técnico, não se preocupe: ao longo do texto, fornecemos explicações acessíveis, exemplos do cotidiano e referências para aprofundamento.  
-
-## Por que Este Livro “Nunca Estará Pronto”
-
-Escrever sobre Inteligência Artificial hoje é, por si só, um desafio instigante — e inevitavelmente imperfeito. A tecnologia avança em ritmo acelerado, quase em tempo real, e aquilo que afirmamos agora pode ganhar novas camadas, atualizações ou até ser superado em poucos meses. Este livro, lançado em dezembro de 2025, nasce com essa consciência plena.
-
-Por isso, não o enxergamos como uma obra fechada, mas como um ponto de partida — um organismo vivo, que respira junto com a evolução da IA e cresce com a contribuição de quem o lê.
-
-:::{admonition} Deixamos aqui um convite aberto:
-:type: hint
-Participe da construção deste conteúdo!
-
-Sempre que tiver uma sugestão, correção ou atualização, você pode enviar uma solicitação de modificação pelo GitHub por meio de um pull request. Sua colaboração é bem-vinda e valorizada; juntos, conseguimos manter este material útil, atual e conectado com as transformações do nosso tempo.
-:::
- 
-
-## Códigos Comentados para Estudo e Prática
-
-Ao longo deste livro, mencionamos diversos códigos desenvolvidos especialmente para ilustrar conceitos, demonstrar funcionalidades e apoiar o aprendizado de forma prática. Todos eles são **de autoria própria**, criados com cuidado para refletir cada exemplo apresentado no texto.
-
-Cada script contém **comentários e explicações internas**, pensados para orientar o leitor passo a passo na compreensão da lógica, dos parâmetros e das decisões utilizadas. A ideia é que você possa não apenas executar os códigos, mas também **explorar, modificar e aprender com eles**.
-
-Sinta-se à vontade para usar, adaptar e experimentar esses recursos.
-
-Os códigos citados ao longo dos capítulos — sempre associados aos exemplos que ilustram ou resolvem — estão organizados no repositório oficial deste livro, disponível no link:
-
-👉 **https://github.com/unb-lamfo-negocios-ai/Recursos-do-Livro**
-
-Este material foi feito para você!
-
-
-## Dicas para aproveitar melhor a leitura
-
-1. **Leia de forma não linear**: cada capítulo foi estruturado para ser consultado separadamente, permitindo que você avance diretamente para os temas mais urgentes no seu contexto.  
-2. **Use as referências**: ao longo do texto, encontrará citações que direcionam para o arquivo `reference.bib`. Ali estão obras clássicas e atuais que complementam o aprendizado.  
-3. **Pratique com as ferramentas**: explore links e recursos sugeridos. A melhor forma de aprender sobre IA é **colocar a mão na massa**, mesmo em experimentos simples, como usar um chatbot ou treinar um modelo básico em planilhas.  
-4. **Conecte com sua realidade**: reflita sobre os conceitos apresentados à luz dos desafios ou oportunidades da sua área — seja otimizar um processo de atendimento, melhorar a tomada de decisão ou criar produtos inovadores.  
-5. **Compartilhe e discuta**: debater ideias com colegas e comunidades amplia a compreensão e gera novas perspectivas. Muitas inovações surgem da combinação de diferentes pontos de vista.  
-
-
-:::{tip}
-Sempre que encontrar um conceito desafiador neste livro, consulte os materiais de apoio e faça paralelos com exemplos da sua realidade. A melhor forma de entender IA é **relacionando teoria, prática e impacto social**.
-:::
-
-## Assuntos Fora do Escopo Deste Livro
+## Assuntos Fora do Escopo Deste Livro (pelo menos por enquanto...)
 
 Embora este material apresente uma base sólida para trabalhar com Inteligência Artificial aplicada, diversos temas importantes — especialmente de natureza teórica, avançada ou de pesquisa — **não foram abordados**. Entre eles:
 
@@ -162,3 +122,43 @@ Embora este material apresente uma base sólida para trabalhar com Inteligência
 
 Esses tópicos permanecem como caminhos naturais de aprofundamento para leitores que desejam avançar rumo à pesquisa, engenharia de IA em larga escala ou desenvolvimento de modelos proprietários.
 
+
+## Por que Este Livro “Nunca Estará Pronto”
+
+Escrever sobre Inteligência Artificial hoje é, por si só, um desafio instigante — e inevitavelmente imperfeito. A tecnologia avança em ritmo acelerado, quase em tempo real, e aquilo que afirmamos agora pode ganhar novas camadas, atualizações ou até ser superado em poucos meses. Este livro, lançado em dezembro de 2025, nasce com essa consciência plena.
+
+Por isso, não o enxergamos como uma obra fechada, mas como um ponto de partida — um organismo vivo, que respira junto com a evolução da IA e cresce com a contribuição de quem o lê.
+
+:::{admonition} Deixamos aqui um convite aberto:
+:type: hint
+Participe da construção deste conteúdo!
+
+Sempre que tiver uma sugestão, correção ou atualização, você pode enviar uma solicitação de modificação pelo GitHub por meio de um pull request. Sua colaboração é bem-vinda e valorizada; juntos, conseguimos manter este material útil, atual e conectado com as transformações do nosso tempo.
+:::
+
+ ## Dicas para aproveitar melhor a leitura
+
+1. **Leia de forma não linear**: cada capítulo foi estruturado para ser consultado separadamente, permitindo que você avance diretamente para os temas mais urgentes no seu contexto.  
+2. **Use as referências**: ao longo do texto, encontrará citações que direcionam para o arquivo `reference.bib`. Ali estão obras clássicas e atuais que complementam o aprendizado.  
+3. **Pratique com as ferramentas**: explore links e recursos sugeridos. A melhor forma de aprender sobre IA é **colocar a mão na massa**, mesmo em experimentos simples, como usar um chatbot ou treinar um modelo básico em planilhas.  
+4. **Conecte com sua realidade**: reflita sobre os conceitos apresentados à luz dos desafios ou oportunidades da sua área — seja otimizar um processo de atendimento, melhorar a tomada de decisão ou criar produtos inovadores.  
+5. **Compartilhe e discuta**: debater ideias com colegas e comunidades amplia a compreensão e gera novas perspectivas. Muitas inovações surgem da combinação de diferentes pontos de vista.  
+
+
+:::{tip}
+Sempre que encontrar um conceito desafiador neste livro, consulte os materiais de apoio e faça paralelos com exemplos da sua realidade. A melhor forma de entender IA é **relacionando teoria, prática e impacto social**.
+:::
+
+## Códigos Comentados para Estudo e Prática
+
+Ao longo deste livro, mencionamos diversos códigos desenvolvidos especialmente para ilustrar conceitos, demonstrar funcionalidades e apoiar o aprendizado de forma prática. Todos eles são **de autoria própria**, criados com cuidado para refletir cada exemplo apresentado no texto.
+
+Cada script contém **comentários e explicações internas**, pensados para orientar o leitor passo a passo na compreensão da lógica, dos parâmetros e das decisões utilizadas. A ideia é que você possa não apenas executar os códigos, mas também **explorar, modificar e aprender com eles**.
+
+Sinta-se à vontade para usar, adaptar e experimentar esses recursos.
+
+Os códigos citados ao longo dos capítulos — sempre associados aos exemplos que ilustram ou resolvem — estão organizados no repositório oficial deste livro, disponível no link:
+
+👉 **https://github.com/unb-lamfo-negocios-ai/Recursos-do-Livro**
+
+Este material foi feito para você! ❤️
