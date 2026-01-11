@@ -1,6 +1,6 @@
 ---
-title: "IA em Movimento"
-subtitle: "Fundamentos, estratégias e ferramentas para criar soluções com Inteligência Artificial"
+title: "IA na Prática"
+subtitle: "Guia Estratégico para Criar Soluções de Inteligência Artificial"
 authors: ["LAMFO", "OtimizAI"]
 ---
 
