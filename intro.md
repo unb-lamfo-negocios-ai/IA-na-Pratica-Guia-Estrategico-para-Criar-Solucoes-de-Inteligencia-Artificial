@@ -59,12 +59,7 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 5. [**Capítulo 4 — Ecossistema de Ferramentas e Frameworks**](cap4)  
 6. [**Capítulo 5 — Recursos de Apoio e Exploração**](cap5)  
 
-Ao final, você encontrará também a seção de [**Referências Bibliográficas**](referencia), com todas as obras utilizadas, e o espaço **Conheça os Autores**.  
-
-Conteúdos correlacionados que não foram contemplados.
-
-Hugging Face
-Types of Artificial Intelligence: Artificial Narrow Intelligence, Reactive AI, Limited Memory AI, Artificial General Intelligence, Theory of Mind AI, Artificial Superhuman Intelligence, Self Aware AI
+Ao final, você encontrará também a seção de [**Referências Bibliográficas**](referencia), com todas as obras utilizadas, e o espaço **Conheça os Autores**.
 
 ---
 

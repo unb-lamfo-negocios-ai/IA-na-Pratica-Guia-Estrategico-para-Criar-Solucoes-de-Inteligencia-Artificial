@@ -308,7 +308,7 @@ No node **Filter**, você pode definir:
 - O node **Filter** é ótimo para automações “em lote”, onde muitos dados passam pelo mesmo fluxo.
 ```
 
-## Node Agreggate
+## Node Aggregate
     
 O Aggregate Node é utilizado para **combinar e resumir dados** provenientes de várias entradas dentro de um fluxo no n8n. Ele permite reunir informações dispersas e transformá-las em um único resultado consolidado, facilitando análises, relatórios e integrações posteriores.
 

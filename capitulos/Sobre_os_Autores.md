@@ -61,7 +61,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ## Sobre os Autores
 
-### Allan Victor Almeida Fariaa
+### Allan Victor Almeida Faria
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -88,7 +88,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 
 
 ---
-### Eric Raniere Costaa
+### Eric Raniere Costa
 
 ::::{grid} 1 1 2 2
 :gutter: 3

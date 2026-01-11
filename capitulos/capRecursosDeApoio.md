@@ -462,7 +462,7 @@ Recomendações personalizadas de papers do arXiv baseadas em seus interesses.
 
 | **Título** | **URL** | **Autor/Canal/Instituição** | 
 | ---------- | -------- | --- | 
-| AI Python for Begginers | https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/z57gn/introduction | Andrew NG/ Deep Learning AI|
+| AI Python for Beginners | https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/z57gn/introduction | Andrew NG/ Deep Learning AI|
 |AI Fluency: Framework & Foundations|https://anthropic.skilljar.com/ai-fluency-framework-foundations|[Anthropic](https://anthropic.skilljar.com/)|
 |Building with the Claude API|https://anthropic.skilljar.com/claude-with-the-anthropic-api|[Anthropic](https://anthropic.skilljar.com/)|
 |Generative AI for everyone | https://www.coursera.org/learn/generative-ai-for-everyone| Andrew NG/ Deep Learning AI|
