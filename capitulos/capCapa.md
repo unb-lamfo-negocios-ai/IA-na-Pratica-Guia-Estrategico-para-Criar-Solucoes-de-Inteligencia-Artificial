@@ -1,7 +1,23 @@
 ---
-title: "IA na prática: Guia estratégico para criar soluções de inteligência artificial"
+title: "IA em Movimento"
 ---
 
-# IA na prática: Guia estratégico para criar soluções de inteligência artificial
+# IA em Movimento
+## Guia estratégico para criar soluções de inteligência artificial
 
-(Aqui você pode colocar uma apresentação/capa/resumo do ebook.)
+```{figure} ../imagens/logo_otimizai_lamfo.png
+---
+height: 200px
+align: center
+---
+```
+
+---
+
+**Autores:**
+**Laboratório de Aprendizado de Máquina em Finanças e Organizações (LAMFO)**
+**OtimizAI**
+
+---
+
+Este guia prático foi desenvolvido para democratizar o acesso à construção de soluções de Inteligência Artificial, unindo o rigor acadêmico da **Universidade de Brasília (UnB)** com a agilidade estratégica da **OtimizAI**.
