@@ -15,8 +15,8 @@ align: center
 ---
 
 **Autores:**
-**Laboratório de Aprendizado de Máquina em Finanças e Organizações (LAMFO)**
-**OtimizAI**
+* **Laboratório de Aprendizado de Máquina em Finanças e Organizações (LAMFO)**
+* **OtimizAI**
 
 ---
 
