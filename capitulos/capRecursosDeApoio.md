@@ -97,7 +97,7 @@ O maior banco de dados de IA: +18.000 ferramentas para +14.000 tarefas. Atualiza
 
 ### Comunidades e Discussões
 
-**[r/startups (Reddit)](https://theresanaiforthat.com/)**  
+**[r/startups (Reddit)](https://www.reddit.com/r/startups/)**  
 Comunidade ativa de empreendedores trocando experiências sobre financiamento, validação de mercado, crescimento e desafios de lançamento. Espaço para feedback direto sobre ideias e estratégias.
 
 ### Relatórios e Análises de Mercado
@@ -160,9 +160,11 @@ Curadoria de ferramentas com foco em produtividade e aplicações empresariais. 
 A tabela abaixo apresenta ferramentas essenciais de IA generativa, organizadas por categoria e tipo de aplicação, para ajudá-lo a escolher as melhores opções conforme suas necessidades de aprendizado e uso prático.
 
 | **Nome da Ferramenta** | **Categoria** | **Plataforma** | **Aplicação** | **Tipo** | **URL** | **Comentários Didáticos** |
-| --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ChatGPT | Texto | OpenAI | Conversação, redação, análise | App/API | chat.openai.com | Excelente para aprender conceitos e praticar idiomas |
 | Claude | Texto | Anthropic | Análise, redação, programação | App/API | claude.ai | Bom para análise de documentos longos |
+| Gemini | Texto/Multimodal | Google | Conversação, criação, análise | App/API | aistudio.google.com | Integrado ao ecossistema Google e NotebookLM |
+| Perplexity | Busca | Perplexity | Pesquisa com fontes em tempo real | App | perplexity.ai | Excelente para validar fatos com citações diretas |
 | Midjourney | Visual |  | Geração de imagens | App | midjourney.com | Forte em estilo artístico e detalhes |
 | DALL-E 3 | Visual | OpenAI | Geração de imagens | App/API | openai.com/dall-e-3 | Ótimo para visualizar conceitos e criar arte |
 
