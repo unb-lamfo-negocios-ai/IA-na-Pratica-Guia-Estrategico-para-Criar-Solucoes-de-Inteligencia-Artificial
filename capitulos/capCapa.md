@@ -5,12 +5,6 @@ title: "IA na Prática"
 # IA na Prática
 ## Guia Estratégico para Criar Soluções de Inteligência Artificial
 
-```{figure} ../imagens/capa.png
----
-width: 100%
-align: center
----
-```
 ---
 
 Este guia prático foi desenvolvido para democratizar o acesso à construção de soluções de Inteligência Artificial, unindo o rigor acadêmico da **Universidade de Brasília (UnB)** com a agilidade estratégica da **OtimizAI**.
