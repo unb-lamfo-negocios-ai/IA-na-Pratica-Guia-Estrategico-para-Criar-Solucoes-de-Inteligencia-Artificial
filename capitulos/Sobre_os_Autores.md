@@ -26,7 +26,7 @@ Nos últimos anos, o LAMFO consolidou-se como referência nacional ao atuar em p
 
 ### Conheça mais sobre o LAMFO
 - **Site oficial:** https://lamfo.unb.br/  
-- **Instagram:** @lamfounb  
+- **Instagram:** [@lamfounb](https://www.instagram.com/lamfounb)  
 - [**LinkedIn**](https://www.linkedin.com/company/lamfo/posts/?feedView=all)
 
 ## OtimizAI – Soluções em Inteligência Artificial
@@ -56,7 +56,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ### Conheça mais sobre a OtimizAI
 - **Site oficial:** https://otimizai.tech  
-- **Instagram:** @otimizai.tech  
+- **Instagram:** [@otimizai.tech](https://www.instagram.com/otimizai.tech)  
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/company/otimizai-tech/?viewAsMember=true)
 
 ## Sobre os Autores
