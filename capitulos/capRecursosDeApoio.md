@@ -17,12 +17,22 @@ Este capítulo reúne **recursos complementares cuidadosamente selecionados** qu
 ```
 
 ```{admonition} Como usar este capítulo
-:class: tip  
+:class: tip
 - Não é necessário explorar todos os recursos de uma vez. Navegue pelas seções conforme suas necessidades evoluem.
 - Marque os links que parecem mais relevantes para seu momento atual e retorne periodicamente para descobrir novos caminhos.
 - Este é um capítulo vivo — considere-o sua biblioteca de referência para manter-se atualizado com as melhores ferramentas e expertises em IA.
 ```
 
+:::{admonition} Atenção ao Hype
+:class: warning
+
+O campo de IA é repleto de anúncios sensacionalistas e "breakthroughs" exagerados. Desenvolva senso crítico:
+
+- Verifique múltiplas fontes antes de aceitar claims extraordinários
+- Priorize análises técnicas sobre manchetes chamativas
+- Acompanhe implementações reais, não apenas demos
+- Entenda limitações junto com capacidades
+:::
 
 ## Referências sobre Negócios e Estratégia em IA
 
@@ -515,17 +525,4 @@ Recomendações personalizadas de papers do arXiv baseadas em seus interesses.
 | **Título** | **URL** | **Canal/Autor** | 
 | --- | --- | --- | 
 | SaaS - Dicionário do Programador | https://youtu.be/4Hw3FApvvhE?si=5hRsmBiWN8r7XDXv | [Código Fonte TV](https://www.youtube.com/@codigofontetv) | 
-| Micro-SaaS de IA em 8 passos | https://youtu.be/HMjzdeiNdKc?si=xhp9TxgG1qTduzTc | [Bruno Okamoto](https://www.youtube.com/@microsaas) |  
-
-
-
-:::{admonition} Atenção ao Hype
-:class: warning
-
-O campo de IA é repleto de anúncios sensacionalistas e "breakthroughs" exagerados. Desenvolva senso crítico:
-
-- Verifique múltiplas fontes antes de aceitar claims extraordinários
-- Priorize análises técnicas sobre manchetes chamativas
-- Acompanhe implementações reais, não apenas demos
-- Entenda limitações junto com capacidades
-:::
+| Micro-SaaS de IA em 8 passos | https://youtu.be/HMjzdeiNdKc?si=xhp9TxgG1qTduzTc | [Bruno Okamoto](https://www.youtube.com/@microsaas) |

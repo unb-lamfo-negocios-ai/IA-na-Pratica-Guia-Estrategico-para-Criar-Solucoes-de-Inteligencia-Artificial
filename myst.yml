@@ -11,14 +11,14 @@ project:
       template: plain_latex_book
       output: exports/book.pdf
   toc:
-   
+
     - file: capitulos/capCapa.md
     - file: capitulos/capComoUsarEsteEbook.md
     - file: capitulos/capFundamentos_de_IA.md
     - file: capitulos/capArquiteturasTecnologias_ComponentesTecnicos.md
-    - file: capitulos/cap2MCP.md
     - file: capitulos/capEstrategiaConstrucao_e_Operacao.md
     - file: capitulos/capEcossistema_Framework.md
+    - file: capitulos/cap2MCP.md
     - file: capitulos/capn8n.md
     - file: capitulos/capRecursosDeApoio.md
     - file: capitulos/Sobre_os_Autores.md

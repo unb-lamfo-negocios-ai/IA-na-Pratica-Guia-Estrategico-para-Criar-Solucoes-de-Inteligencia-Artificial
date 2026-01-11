@@ -1,5 +1,22 @@
 # Protocolos de Integração entre Modelos Computacionais
 
+```{admonition} O problema que vamos resolver
+:class: tip
+
+Imagine que você quer criar um assistente de IA realmente útil — não apenas um chatbot que responde perguntas genéricas, mas um que:
+
+- **Acesse seus arquivos** e encontre documentos relevantes
+- **Busque papers acadêmicos** em bases como ArXiv
+- **Consulte APIs externas** para obter dados em tempo real
+- **Execute ações** como salvar notas ou enviar e-mails
+
+Como fazer isso de forma **padronizada, segura e reutilizável**? Como garantir que diferentes ferramentas de IA possam se comunicar entre si sem reinventar a roda a cada projeto?
+
+É exatamente esse problema que o **Model Context Protocol (MCP)** resolve. Ao final deste capítulo, você verá uma aplicação prática completa: um sistema que busca e analisa papers acadêmicos usando MCP — demonstrando como essa padronização transforma a forma de construir soluções com IA.
+```
+
+---
+
 Protocolos para conectar modelos computacionais distintos são conjuntos de regras, formatos e padrões que permitem a integração, comunicação e interoperabilidade entre diferentes sistemas, algoritmos ou arquiteturas de modelagem. Eles atuam como pontes semânticas e estruturais, garantindo que os modelos compartilhem informações contextuais, metadados, entradas e saídas, mesmo quando desenvolvidos com linguagens, objetivos ou arquiteturas diferentes. Esses protocolos são fundamentais em cenários como sistemas multiagentes, gêmeos digitais, orquestração de modelos de IA, fluxos RAG e infraestruturas de MLOps, onde é necessário manter consistência, rastreabilidade e colaboração inteligente entre os diversos componentes do sistema.
 
 
@@ -7,7 +24,8 @@ Protocolos para conectar modelos computacionais distintos são conjuntos de regr
 ---
 height: 150px
 name: protocolo
----IImagem ilustrando os protocolos de integração entre agentes de IA.
+---
+Imagem ilustrando os protocolos de integração entre agentes de IA.
 ```
 
 
@@ -942,7 +960,7 @@ Servidor: "ERRO! A ferramenta que você pediu não existe.
 
 ---
 
-## Resumo para Leigos
+## Resumindo...
 
 ```{admonition} O que você precisa entender:
 :class: tip
@@ -1979,7 +1997,7 @@ __pycache__/
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-**Observação:**Oque é uma licença MIT? A licença MIT é uma licença de software permissiva, curta e simples, que permite usar, copiar, modificar e distribuir o código-fonte livremente, até mesmo para fins comerciais, desde que o aviso de direitos autorais original e o texto da licença sejam incluídos em todas as cópias do software ou partes substanciais dele.
+**Observação:** O que é uma licença MIT? A licença MIT é uma licença de software permissiva, curta e simples, que permite usar, copiar, modificar e distribuir o código-fonte livremente, até mesmo para fins comerciais, desde que o aviso de direitos autorais original e o texto da licença sejam incluídos em todas as cópias do software ou partes substanciais dele.
 
 ---
 

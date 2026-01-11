@@ -35,7 +35,16 @@ Este material é destinado a:
 - **Profissionais criativos** que buscam novas formas de produção com auxílio de IA generativa.  
 - **Estudantes e curiosos** que desejam uma visão prática e aplicada sobre o tema.  
 
-Não é necessário ter experiência prévia em programação — o conteúdo foi desenhado para ser **inclusivo, acessível e prático**, com explicações claras, exemplos do cotidiano e referências para aprofundamento.  
+Não é necessário ter experiência prévia em programação — o conteúdo foi desenhado para ser **inclusivo, acessível e prático**, com explicações claras, exemplos do cotidiano e referências para aprofundamento.
+
+:::{tip}
+**Não sabe programar? Sem problemas!** Ao longo do livro, você conhecerá ferramentas **no-code** e **low-code** que permitem criar automações e protótipos sem escrever código. Também apresentamos o conceito de **Vibe Coding** — uma abordagem em que você descreve o que deseja e a IA escreve o código por você. A barreira técnica nunca foi tão baixa.
+:::
+
+:::{admonition} Um alerta importante
+:class: warning
+O campo de IA é repleto de anúncios sensacionalistas e promessas exageradas. Ao longo deste livro, incentivamos você a desenvolver **senso crítico**: verificar múltiplas fontes, priorizar implementações reais sobre demos impressionantes, e entender limitações junto com capacidades. A IA é poderosa, mas não é mágica.
+:::
 
 ---
 

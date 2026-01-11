@@ -41,7 +41,16 @@ A proposta deste material é **traduzir conceitos técnicos em linguagem clara**
 - **Profissionais criativos** que buscam novas formas de produção com auxílio de IA generativa.  
 - **Estudantes e curiosos** que desejam uma visão prática e aplicada sobre o tema.  
 
-Não é necessário ter experiência prévia em programação — o conteúdo foi desenhado para ser **inclusivo, acessível e prático**, com explicações claras, exemplos do cotidiano e referências para aprofundamento.  
+Não é necessário ter experiência prévia em programação — o conteúdo foi desenhado para ser **inclusivo, acessível e prático**, com explicações claras, exemplos do cotidiano e referências para aprofundamento.
+
+:::{tip}
+**Não sabe programar? Sem problemas!** Ao longo do livro, você conhecerá ferramentas **no-code** e **low-code** que permitem criar automações e protótipos sem escrever código. Também apresentamos o conceito de **Vibe Coding** — uma abordagem em que você descreve o que deseja e a IA escreve o código por você. A barreira técnica nunca foi tão baixa.
+:::
+
+:::{admonition} Um alerta importante
+:class: warning
+O campo de IA é repleto de anúncios sensacionalistas e promessas exageradas. Ao longo deste livro, incentivamos você a desenvolver **senso crítico**: verificar múltiplas fontes, priorizar implementações reais sobre demos impressionantes, e entender limitações junto com capacidades. A IA é poderosa, mas não é mágica.
+:::
 
 ## Conhecimentos prévios recomendados
 
@@ -70,25 +79,25 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 - **Pipelines e LLMOps**: suporte para treinar, testar e manter modelos com qualidade.
 - **Arquiteturas RAG**: permite personalizar LLMs com dados internos atualizados e confiáveis.
 - **Ferramentas, memória e ações**: mostra como modelos executam tarefas reais além da geração de texto.
-3. [**Capítulo 3 — Protocolos de Integração entre Modelos Computacionais**](cap2MCP)
-- **Por que protocolos importam**: padronizam comunicação e reduzem fricção entre sistemas e modelos.
-- **MCP (Model Context Protocol)**: viabiliza integração segura entre agentes, ferramentas e dados.
-- **Arquitetura cliente–servidor do MCP**: organiza a interação entre hosts, servidores e modelos.
-- **Tools, resources e prompts parametrizados**: permitem ações controladas e reutilizáveis pelos modelos.
-- **Comunicação JSON-RPC**: garante previsibilidade, compatibilidade e auditabilidade.
-4. [**Capítulo 4 — Estratégias de Construção e Operação**](capEstrategiaConstrucao_e_Operacao)
+3. [**Capítulo 3 — Estratégias de Construção e Operação**](capEstrategiaConstrucao_e_Operacao)
 - **Buy vs. Build**: orienta decisões estratégicas sobre uso de APIs prontas ou modelos próprios.
 - **Custos, latência e infraestrutura**: determinam viabilidade técnica e econômica de soluções de IA.
 - **Modelos de monetização**: define como transformar IA em produto sustentável e escalável.
 - **Arquiteturas híbridas (cloud + on-premise)**: equilibra custo, privacidade e performance.
 - **Governança e segurança**: garante confiabilidade, conformidade e controle operacional.
-5. [**Capítulo 5 — Ecossistema de Ferramentas e Frameworks**](capEcossistema_Framework)
+4. [**Capítulo 4 — Frameworks de Orquestração e Multi-agentes**](capEcossistema_Framework)
 - **LangChain e orquestração de LLMs**: facilitam construção de fluxos complexos, agentes e pipelines.
 - **Hugging Face Hub**: oferece modelos, datasets e demos para experimentação imediata.
 - **Modelos open-source (Llama, Mistral, DeepSeek)**: alternativas flexíveis, econômicas e customizáveis.
 - **Serviços de inferência e otimização**: reduzem custo e aumentam velocidade de execução dos modelos.
 - **Ferramentas de avaliação e monitoramento**: acompanham desempenho, qualidade e segurança do sistema.
-6. [**Capítulo 6 - Integrando com n8n**](capn8n)
+5. [**Capítulo 5 — Protocolos de Integração entre Modelos Computacionais**](cap2MCP)
+- **Por que protocolos importam**: padronizam comunicação e reduzem fricção entre sistemas e modelos.
+- **MCP (Model Context Protocol)**: viabiliza integração segura entre agentes, ferramentas e dados.
+- **Arquitetura cliente–servidor do MCP**: organiza a interação entre hosts, servidores e modelos.
+- **Tools, resources e prompts parametrizados**: permitem ações controladas e reutilizáveis pelos modelos.
+- **Comunicação JSON-RPC**: garante previsibilidade, compatibilidade e auditabilidade.
+6. [**Capítulo 6 — Integrando com n8n**](capn8n)
 - **Automação low-code com workflows visuais**: cria automações complexas sem necessidade de programar.
 - **Uso de APIs no n8n**: conecta qualquer serviço externo ao fluxo de forma simples.
 - **Credenciais e autenticação**: assegura acesso seguro e controlado a sistemas sensíveis.

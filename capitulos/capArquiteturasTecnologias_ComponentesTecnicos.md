@@ -1,7 +1,107 @@
 # Arquiteturas, Tecnologias e Componentes Técnicos
 
 Uma solução de Inteligência Artificial é formada por diferentes **camadas técnicas** que trabalham em conjunto para transformar dados em valor.  
-Compreender essas camadas é essencial para que líderes, desenvolvedores e gestores saibam **onde aplicar esforços**, **quais tecnologias priorizar** e **como reduzir riscos**. Neste capítulo, você vai explorar os principais **componentes de arquitetura, tecnologias e protocolos** utilizados atualmente, com foco em aplicações práticas e decisões estratégicas.  
+Compreender essas camadas é essencial para que líderes, desenvolvedores e gestores saibam **onde aplicar esforços**, **quais tecnologias priorizar** e **como reduzir riscos**. Neste capítulo, você vai explorar os principais **componentes de arquitetura, tecnologias e protocolos** utilizados atualmente, com foco em aplicações práticas e decisões estratégicas.
+
+## Frontend vs. Backend
+
+Qualquer aplicação de software, seja um site de e-commerce a uma ferramenta de IA, é composta por duas partes distintas, mas interdependentes: o frontend e o backend.
+
+- **O Frontend (O "Palco"):** Esta é a parte da aplicação com a qual o usuário interage diretamente. É tudo o que se vê e se toca na tela: botões, menus, imagens, campos de formulário, layout e design visual. Também chamado de lado do cliente (client-side), o frontend é executado no navegador ou dispositivo do usuário.
+
+O foco do frontend é oferecer uma **interface intuitiva** e uma **experiência agradável,** ou seja, garantir uma navegação fluida, rápida e responsiva em diferentes dispositivos (computadores, tablets, smartphones).
+
+As tecnologias essenciais para o desenvolvimento frontend incluem:
+
+- **HTML (HyperText Markup Language):** estrutura o conteúdo da página.
+- **CSS (Cascading Style Sheets):** define o visual, o estilo e a disposição dos elementos.
+- **JavaScript:** adiciona interatividade, animações e comportamentos dinâmicos.
+
+- **Backend (A "Cozinha"):** O backend é o que acontece por trás das cortinas. É o *lado do servidor* (*server-side*), o núcleo que executa toda a lógica da aplicação. Ele lida com o processamento de dados, autenticação de usuários, integrações com sistemas externos, e o armazenamento em bancos de dados.
+
+Enquanto o frontend se preocupa com a aparência e a interação, o backend garante que tudo funcione corretamente, de forma segura, estável e escalável.
+
+As tecnologias de backend variam conforme o projeto, mas algumas das mais comuns incluem:
+
+- Linguagens como **Python**, **Java**, **Node.js** e **Ruby**.
+- Bancos de dados como **MySQL**, **PostgreSQL**, **MongoDB**.
+- Serviços em nuvem, APIs e servidores web (como NGINX, Apache).
+
+```{admonition} Uma Analogia Real: O Restaurante
+:class: exemplo
+
+- O **frontend** é o salão do restaurante: o cardápio, a decoração, os garçons e a apresentação dos pratos, tudo voltado para o cliente.
+- O **backend** é a cozinha: os chefs, os ingredientes, os fornos e todo o trabalho invisível que transforma o pedido em um prato pronto.
+```
+
+---
+
+#### Frontend vs. Backend em Soluções de IA
+
+O *frontend* em aplicações de IA é o ponto de contato direto com o usuário. Ele deve tornar a **complexidade do backend compreensível e utilizável**. Principais elementos:
+
+- **Interfaces de chat** – assistentes virtuais ou chatbots.
+- **Dashboards com gráficos preditivos** – análises claras e visuais.
+- **Campos para envio de dados** – textos, imagens, áudios ou outros formatos.
+- **Feedback visual** – mostra o que o modelo está fazendo ou recomendando.
+
+Um bom *frontend* vai além de exibir resultados: ele **traduz processos complexos em interações simples**, reforçando a **confiança**, o **entendimento** e a **usabilidade** do sistema.
+
+
+#### Backend em Ferramentas de IA
+
+O *backend* é o **cérebro por trás da aplicação de IA**, onde toda a lógica e inteligência acontecem. Ele é responsável por:
+
+- **Executar modelos de machine learning** – carregamento, inferência e (em alguns casos) re-treinamento.
+- **Processar e preparar dados** – limpeza, normalização e análise dos dados recebidos.
+- **Tomar decisões com IA** – lógica de inferência baseada em entrada do usuário ou sistemas externos.
+- **Conectar com infraestrutura** – bancos de dados, APIs externas, serviços em nuvem e recursos de escalabilidade.
+
+Diferente de backends tradicionais, o backend em IA não apenas executa regras fixas: ele **aprende, adapta e raciocina** conforme interage com os dados e com o ambiente.
+
+
+```{admonition} Exemplo Prático: Um Assistente Virtual com IA
+:class: exemplo
+
+Para entender como **frontend** e **backend** funcionam juntos em uma aplicação de IA, vamos considerar um exemplo concreto: **um assistente virtual inteligente**.
+
+- **Frontend:** é tudo o que o usuário vê e com o que interage. Isso inclui:
+  - A **janela de chat**
+  - Os **balões de conversa**
+  - O **botão de enviar mensagem**
+  - Um possível **avatar animado do assistente**
+  Esses elementos tornam a interação intuitiva e acessível.
+
+- **Backend:** é onde a inteligência acontece, por trás da interface. Ele é composto por:
+  - O **modelo de linguagem natural** (como o GPT)
+  - Mecanismos de **interpretação de intenção**
+  - Sistemas de **formulação de resposta**
+  - Acesso a **bancos de dados** para fornecer respostas personalizadas
+  - **Monitoramento da conversa** para manter o contexto
+```
+Além disso, o backend pode ser conectado a **APIs externas**, permitindo que o assistente:
+- Consulte **previsões do tempo**
+- Acesse **eventos da agenda**
+- Utilize **localização**
+- Personalize respostas com base em **dados do usuário**
+
+Esse exemplo mostra como o casamento entre frontend e backend é essencial para criar experiências realmente inteligentes e úteis para o usuário.
+
+### Por que frontend e backend importam nos negócios com IA?
+
+Entender a separação entre frontend e backend é essencial para quem está planejando, investindo ou liderando projetos com Inteligência Artificial. Essa visão:
+
+- Ajuda a montar equipes certas (designers/UI para o frontend, cientistas de dados/devs para o backend).
+- Facilita decisões sobre onde investir mais (melhorar a experiência do usuário ou otimizar os modelos no backend?).
+- Permite visualizar a jornada completa: da interação do usuário até o processamento inteligente dos dados.
+
+:::{tip}
+**O frontend encanta, o backend entrega.** Em soluções de IA, isso é mais verdadeiro do que nunca.
+:::
+
+---
+
+As próximas seções abordam os principais componentes de **backend** em soluções de IA — desde a engenharia de prompts até a infraestrutura de execução.
 
 ## Prompt Engineering, RAG e Fine-tuning
 
@@ -249,6 +349,139 @@ Essas ferramentas são ideais para profissionais de qualquer área que desejam a
 
 Tudo isso feito com conectores visuais e regras simples, **sem programar**.
 
+## Vibe Coding — Criando com IA no Ritmo da Ideia
+
+O **Vibe Coding** é um estilo emergente de desenvolvimento que transforma a forma como criamos soluções digitais. Em vez de seguir um processo tradicional, com longas etapas de planejamento, configuração de ambiente e escrita manual de código, o **vibe coder** simplesmente **descreve o que deseja** — e a **IA traduz essa ideia em código funcional** em segundos. Digamos que, nesse modelo, a programação tradicional é complementada por **colaboração interativa com LLMs**, que sugerem código, explicações e até protótipos funcionais {cite}`wu2022`.
+
+Essa abordagem torna o processo mais **leve, acessível e criativo**, ideal para quem quer **testar ideias rapidamente** e **prototipar sem barreiras técnicas**.
+
+```{admonition} Principais Benefícios
+:class: note
+
+- **Prototipagem acelerada:** é possível ter um app, automação ou ferramenta funcional em **minutos**.
+- **Baixo custo de erro:** se a ideia não der certo, o tempo e o investimento desperdiçados são mínimos.
+- **Acesso democratizado:** qualquer pessoa pode ir **da ideia ao protótipo** sem precisar dominar linguagens complexas.
+- **Liberdade criativa:** não existe "modo correto" — o foco é **colocar algo para rodar** e aprender com o processo.
+```
+
+### Exemplo prático de uso da metodologia Vibe Coding
+Veja a seguir o passo a passo de como ocorre a interação entre o usuário e a IA via Vibe Coding
+
+```{admonition} Exemplo prático
+:class: exemplo
+
+Um **designer de produto** pode, com o auxílio de um LLM, criar um **protótipo de aplicativo** que gera imagens personalizadas para campanhas de marketing — tudo isso **sem escrever linhas extensas de código**.
+```
+
+**Interação entre Designer e IA via Vibe Coding**
+
+#### 1. Conversa Inicial com a IA
+
+O designer abre uma ferramenta como o ChatGPT com Code Interpreter ou um ambiente como Replit + Copilot e digita:
+
+`Quero um app simples onde o usuário escreve uma frase e, com base nisso, uma imagem é gerada usando IA. Pode ser feito com Streamlit.`
+
+#### 2. Primeira Resposta da IA
+
+A IA gera o esqueleto de código:
+
+```{code-block} python
+
+import streamlit as st
+import openai
+
+st.title("Gerador de Imagens para Marketing")
+frase = st.text_input("Descreva a imagem que deseja")
+
+if st.button("Gerar"):
+    # chamada para API de imagem
+    imagem = gerar_imagem(frase)  # função hipotética
+    st.image(imagem)
+```
+Este exemplo é meramente ilustrativo, para um exemplo real para uma aplicação do tipo. Para uma versão mais completa de uma aplicação do tipo, veja o [exemplo no GitHub de recursos do livro](https://github.com/unb-lamfo-negocios-ai/Recursos-do-Livro/blob/main/Exemplo%20Vibe%20Coding.py). Para uma visão mais completa do processo, confira esse [vídeo](https://www.youtube.com/watch?v=TbtBUYxpygA).
+
+#### 3. Iterações com a IA
+
+O designer digita:
+
+`Coloque um botão mais estilizado, com ícone de câmera, e uma cor chamativa.`
+
+A IA atualiza o layout com novos elementos visuais e interações.
+
+#### 4. Testes de Funcionalidade
+
+O designer solicita:
+
+`Adicione uma função para salvar a imagem localmente com o nome do usuário.`
+
+#### 5. Protótipo Pronto para Demonstração
+
+Em poucos minutos, o app está funcional e pode ser testado com colegas ou potenciais usuários para feedback.
+
+```{admonition}
+:class: note
+- O designer nunca escreveu código do zero.
+- Usou a IA como **copiloto criativo e executor técnico**.
+- Pôde iterar visualmente, com liberdade, e validar sua ideia sem depender de um desenvolvedor.
+```
+
+```{admonition} Limitações e Cuidados
+:class: caution
+
+Apesar da agilidade, o Vibe Coding traz desafios importantes:
+
+- **Fragilidade arquitetural:** pular etapas de planejamento pode gerar **códigos difíceis de manter e escalar**.
+- **Dependências invisíveis:** a IA pode adicionar bibliotecas incompatíveis ou desatualizadas sem aviso.
+- **Risco de vulnerabilidades:** trechos gerados podem conter falhas de segurança ou desempenho.
+- **Aprendizado superficial:** depender 100% da IA reduz o domínio dos fundamentos.
+- **Ilusão de velocidade:** transformar um protótipo relâmpago em **produto robusto** exige testes, versionamento e boas práticas.
+```
+
+```{admonition} Lembre-se
+:class: tip
+
+- A **velocidade inicial** não substitui **boas práticas de engenharia**.
+- Use o Vibe Coding para **explorar ideias e validar hipóteses**, mas consolide os resultados com uma base técnica sólida.
+```
+
+
+### Como o Empreendedor Pode Usar Vibe Coding
+
+Para quem lidera um negócio ou startup, o Vibe Coding é uma ferramenta poderosa de **inovação e experimentação**:
+
+- Criar **MVPs (produtos mínimos viáveis)** em tempo recorde para testar propostas de valor.
+- Validar **novos recursos de IA** antes de investir em desenvolvimento completo.
+- Construir **automações internas** e **dashboards inteligentes** com custo quase zero.
+- Capacitar times não técnicos a **prototipar soluções próprias**, reduzindo gargalos de TI.
+
+```{admonition} Exemplo
+:class: exemplo
+
+Um empreendedor pode [usar o Vibe Coding](https://www.youtube.com/watch?v=dan3QfN3CDU) para **criar um chatbot de atendimento** ou uma **ferramenta de análise de sentimentos** conectada às redes sociais da marca - tudo guiado por prompts conversacionais.
+```
+
+```{admonition} Integre o Vibe Coding à sua estratégia de inovação contínua:
+:class: tip
+
+- Use-o para **testar ideias**,
+- **Engajar sua equipe**,
+- E **reduzir o tempo entre insight e execução**.
+```
+
+```{admonition} LLMs são alavancas, não substitutos
+:class: note
+
+- **LLMs e IA generativa** mudaram o jogo da criação digital: agora é possível **produzir mais, com menos recursos**.
+- Para empreendedores, isso significa **velocidade, economia e liberdade para experimentar**.
+```
+
+O **Vibe Coding** é um divisor de águas:
+- Democratiza o desenvolvimento.
+- Reduz o medo de começar.
+- Incentiva a criatividade.
+
+Mas cada atalho cobra seu preço: cabe ao empreendedor equilibrar **velocidade** e **sustentabilidade técnica**, decidindo **quando a agilidade compensa** e **quando é preciso mais profundidade**.
+
 ## Como funciona uma chamada de API de modelo de linguagem?
 
 Uma chamada de API para um modelo de linguagem (como o GPT da OpenAI) funciona como um **diálogo estruturado** entre o usuário e o modelo, mediado por uma requisição HTTP contendo um *prompt* — ou seja, um conjunto de mensagens que simulam uma conversa.
@@ -361,7 +594,7 @@ Benefícios de entender a contagem de tokens:
 - Garante equilíbrio entre custo, velocidade e qualidade da resposta
 
 
-**Tabela de referência — Tokens, preços e limites**
+**Tabela de referência — Tokens, preços e limites** *(valores de referência em dezembro/2025 — consulte sempre a documentação oficial para preços atualizados)*
 
 |Modelo|	Limite de tokens (entrada + saída)	|Preço (1K tokens) prompt|	Preço (1K tokens) resposta|	Notas|
 |------|----------------------------------------|------------------------|----------------------------|------|
@@ -520,102 +753,6 @@ Um banco pode usar a nuvem para treinar seus modelos de detecção de fraude, ap
 
 A resposta a essas perguntas definirá a combinação ideal de flexibilidade alugada e controle próprio para sua estratégia de IA.
 ```
-
-## Frontend vs. Backend
-
-Qualquer aplicação de software, seja um site de e-commerce a uma ferramenta de IA, é composta por duas partes distintas, mas interdependentes: o frontend e o backend.
-
-- **O Frontend (O "Palco"):** Esta é a parte da aplicação com a qual o usuário interage diretamente. É tudo o que se vê e se toca na tela: botões, menus, imagens, campos de formulário, layout e design visual. Também chamado de lado do cliente (client-side), o frontend é executado no navegador ou dispositivo do usuário.
-
-O foco do frontend é oferecer uma **interface intuitiva** e uma **experiência agradável,** ou seja, garantir uma navegação fluida, rápida e responsiva em diferentes dispositivos (computadores, tablets, smartphones).
-
-As tecnologias essenciais para o desenvolvimento frontend incluem:
-
-- **HTML (HyperText Markup Language):** estrutura o conteúdo da página.
-- **CSS (Cascading Style Sheets):** define o visual, o estilo e a disposição dos elementos.
-- **JavaScript:** adiciona interatividade, animações e comportamentos dinâmicos.
-
-- **Backend (A "Cozinha"):** O backend é o que acontece por trás das cortinas. É o *lado do servidor* (*server-side*), o núcleo que executa toda a lógica da aplicação. Ele lida com o processamento de dados, autenticação de usuários, integrações com sistemas externos, e o armazenamento em bancos de dados.
-
-Enquanto o frontend se preocupa com a aparência e a interação, o backend garante que tudo funcione corretamente, de forma segura, estável e escalável.
-
-As tecnologias de backend variam conforme o projeto, mas algumas das mais comuns incluem:
-
-- Linguagens como **Python**, **Java**, **Node.js** e **Ruby**.
-- Bancos de dados como **MySQL**, **PostgreSQL**, **MongoDB**.
-- Serviços em nuvem, APIs e servidores web (como NGINX, Apache).
-
-```{admonition} Uma Analogia Real: O Restaurante
-:class: exemplo
-
-- O **frontend** é o salão do restaurante: o cardápio, a decoração, os garçons e a apresentação dos pratos, tudo voltado para o cliente.
-- O **backend** é a cozinha: os chefs, os ingredientes, os fornos e todo o trabalho invisível que transforma o pedido em um prato pronto.
-```
-
----
-
-#### Frontend vs. Backend em Soluções de IA
-
-O *frontend* em aplicações de IA é o ponto de contato direto com o usuário. Ele deve tornar a **complexidade do backend compreensível e utilizável**. Principais elementos:
-
-- **Interfaces de chat** – assistentes virtuais ou chatbots.  
-- **Dashboards com gráficos preditivos** – análises claras e visuais.  
-- **Campos para envio de dados** – textos, imagens, áudios ou outros formatos.  
-- **Feedback visual** – mostra o que o modelo está fazendo ou recomendando.
-
-Um bom *frontend* vai além de exibir resultados: ele **traduz processos complexos em interações simples**, reforçando a **confiança**, o **entendimento** e a **usabilidade** do sistema.
-
-
-#### Backend em Ferramentas de IA
-
-O *backend* é o **cérebro por trás da aplicação de IA**, onde toda a lógica e inteligência acontecem. Ele é responsável por:
-
-- **Executar modelos de machine learning** – carregamento, inferência e (em alguns casos) re-treinamento.  
-- **Processar e preparar dados** – limpeza, normalização e análise dos dados recebidos.  
-- **Tomar decisões com IA** – lógica de inferência baseada em entrada do usuário ou sistemas externos.  
-- **Conectar com infraestrutura** – bancos de dados, APIs externas, serviços em nuvem e recursos de escalabilidade.
-
-Diferente de backends tradicionais, o backend em IA não apenas executa regras fixas: ele **aprende, adapta e raciocina** conforme interage com os dados e com o ambiente.
-
-
-```{admonition} Exemplo Prático: Um Assistente Virtual com IA
-:class: exemplo
-
-Para entender como **frontend** e **backend** funcionam juntos em uma aplicação de IA, vamos considerar um exemplo concreto: **um assistente virtual inteligente**.
-
-- **Frontend:** é tudo o que o usuário vê e com o que interage. Isso inclui:
-  - A **janela de chat**
-  - Os **balões de conversa**
-  - O **botão de enviar mensagem**
-  - Um possível **avatar animado do assistente**  
-  Esses elementos tornam a interação intuitiva e acessível.
-
-- **Backend:** é onde a inteligência acontece, por trás da interface. Ele é composto por:
-  - O **modelo de linguagem natural** (como o GPT)
-  - Mecanismos de **interpretação de intenção**
-  - Sistemas de **formulação de resposta**
-  - Acesso a **bancos de dados** para fornecer respostas personalizadas
-  - **Monitoramento da conversa** para manter o contexto
-```
-Além disso, o backend pode ser conectado a **APIs externas**, permitindo que o assistente:
-- Consulte **previsões do tempo**
-- Acesse **eventos da agenda**
-- Utilize **localização**
-- Personalize respostas com base em **dados do usuário**
-
-Esse exemplo mostra como o casamento entre frontend e backend é essencial para criar experiências realmente inteligentes e úteis para o usuário.
-
-### Por que frontend e backend importam nos negócios com IA?
-
-Entender a separação entre frontend e backend é essencial para quem está planejando, investindo ou liderando projetos com Inteligência Artificial. Essa visão:
-
-- Ajuda a montar equipes certas (designers/UI para o frontend, cientistas de dados/devs para o backend).
-- Facilita decisões sobre onde investir mais (melhorar a experiência do usuário ou otimizar os modelos no backend?).
-- Permite visualizar a jornada completa: da interação do usuário até o processamento inteligente dos dados.
-
-:::{tip}
-**O frontend encanta, o backend entrega.** Em soluções de IA, isso é mais verdadeiro do que nunca.
-:::
 
 ## Outras alternativas para construção do Frontend
 
