@@ -1044,7 +1044,7 @@ A tabela abaixo resume as principais diferenças entre as três estratégias, fa
 |------------|-------------------|--------------------| ------------|
 | **Stop Workflow** | ❌ Não | ❌ Não | Operações críticas |
 | **Continue** | ✅ Sim | ❌ Não | Operações não-críticas |
-| **Continue (Error Output)** | ✅ Sim | ✅ Sim | Tratamento inteligente de erros |Tentar novamenteClaude ainda não tem a capacidade de executar o código que gera.
+| **Continue (Error Output)** | ✅ Sim | ✅ Sim | Tratamento inteligente de erros |
 
 ### Resolvendo erros
 
