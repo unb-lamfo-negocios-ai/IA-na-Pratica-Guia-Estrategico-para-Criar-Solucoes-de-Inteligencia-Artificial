@@ -7,7 +7,9 @@ Compreender essas camadas é essencial para que líderes, desenvolvedores e gest
 
 Qualquer aplicação de software, seja um site de e-commerce a uma ferramenta de IA, é composta por duas partes distintas, mas interdependentes: o frontend e o backend.
 
-- **O Frontend (O "Palco"):** Esta é a parte da aplicação com a qual o usuário interage diretamente. É tudo o que se vê e se toca na tela: botões, menus, imagens, campos de formulário, layout e design visual. Também chamado de lado do cliente (client-side), o frontend é executado no navegador ou dispositivo do usuário.
+#### O Frontend (O "Palco")
+
+Esta é a parte da aplicação com a qual o usuário interage diretamente. É tudo o que se vê e se toca na tela: botões, menus, imagens, campos de formulário, layout e design visual. Também chamado de lado do cliente (client-side), o frontend é executado no navegador ou dispositivo do usuário.
 
 O foco do frontend é oferecer uma **interface intuitiva** e uma **experiência agradável,** ou seja, garantir uma navegação fluida, rápida e responsiva em diferentes dispositivos (computadores, tablets, smartphones).
 
@@ -17,7 +19,9 @@ As tecnologias essenciais para o desenvolvimento frontend incluem:
 - **CSS (Cascading Style Sheets):** define o visual, o estilo e a disposição dos elementos.
 - **JavaScript:** adiciona interatividade, animações e comportamentos dinâmicos.
 
-- **Backend (A "Cozinha"):** O backend é o que acontece por trás das cortinas. É o *lado do servidor* (*server-side*), o núcleo que executa toda a lógica da aplicação. Ele lida com o processamento de dados, autenticação de usuários, integrações com sistemas externos, e o armazenamento em bancos de dados.
+#### Backend (A "Cozinha")
+
+O backend é o que acontece por trás das cortinas. É o *lado do servidor* (*server-side*), o núcleo que executa toda a lógica da aplicação. Ele lida com o processamento de dados, autenticação de usuários, integrações com sistemas externos, e o armazenamento em bancos de dados.
 
 Enquanto o frontend se preocupa com a aparência e a interação, o backend garante que tudo funcione corretamente, de forma segura, estável e escalável.
 
@@ -101,7 +105,7 @@ Entender a separação entre frontend e backend é essencial para quem está pla
 
 ---
 
-As próximas seções abordam os principais componentes de **backend** em soluções de IA — desde a engenharia de prompts até a infraestrutura de execução.
+As próximas seções abordam os principais componentes de **backend** em soluções de IA — desde a engenharia de prompts até a infraestrutura de execução. Ao final deste capítulo, retomamos a discussão de **frontend**.
 
 ## Prompt Engineering, RAG e Fine-tuning
 
