@@ -298,7 +298,7 @@ A arquitetura do LangFlow é construída em torno de três conceitos fundamentai
 
 ### Interoperabilidade e o MCP
 
-É possível trabalhar com o LangFlow integrando-o ao MCP, permitindo que o fluxo interaja com múltiplos modelos e ferramentas de forma padronizada, escalável e interoperável. Isto é, o LangFlow evoluiu para ser tanto um servidor como um cliente do MCP, uma característica crítica para sistemas de IA modernos e distribuídos. Veja [Seção Model Context Protocol](secao_mcp) para saber mais sobre MCP. 
+É possível trabalhar com o LangFlow integrando-o ao MCP, permitindo que o fluxo interaja com múltiplos modelos e ferramentas de forma padronizada, escalável e interoperável. Isto é, o LangFlow evoluiu para ser tanto um servidor como um cliente do MCP, uma característica crítica para sistemas de IA modernos e distribuídos. Veja o {doc}`cap2MCP` para saber mais detalhes sobre este protocolo que será abordado profundamente no próximo capítulo. 
 
 ```{admonition} Servidor MCP
 :class: note

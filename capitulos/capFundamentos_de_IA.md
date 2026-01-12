@@ -144,9 +144,9 @@ A **IA Generativa** engloba qualquer sistema de inteligência artificial capaz d
 - Eles são como o "motor" que impulsiona aplicações de geração e compreensão de texto.
 - Eles são capazes de **compreender e gerar linguagem natural** e estão por trás de ferramentas como:
 
-- [ChatGPT (OpenAI)](https://chat.openai.com)
-- [Claude (Anthropic)](https://www.anthropic.com)
-- [Gemini (Google)](https://deepmind.google/technologies/gemini/)
+- [ChatGPT (OpenAI)](https://chatgpt.com)
+- [Claude (Anthropic)](https://claude.ai)
+- [Gemini (Google)](https://gemini.google.com)
 - [Mistral](https://mistral.ai/)
 - [LLaMA (Meta)](https://ai.meta.com/llama/)
 
@@ -219,10 +219,10 @@ Seja para gerar um soneto, uma imagem de um astronauta em um cavalo ou uma funç
 ```{admonition} Exemplos de ferramentas de IA generativa:
 :class: exemplo
 
-- **Texto (LLMs)**: [ChatGPT](https://chat.openai.com), [Claude](https://www.anthropic.com/index/claude), [Gemini](https://deepmind.google/technologies/gemini/)
+- **Texto (LLMs)**: [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Gemini](https://gemini.google.com)
 - **Imagem**: [DALL·E](https://openai.com/dall-e), [Midjourney](https://www.midjourney.com/), [Stable Diffusion](https://stability.ai/)
 - **Voz**: [ElevenLabs](https://www.elevenlabs.io/)
-- **Multimodal**: [GPT-4V (Vision)](https://openai.com/gpt-4), [Gemini 1.5](https://deepmind.google/technologies/gemini/)
+- **Multimodal**: [GPT-4V (Vision)](https://openai.com/gpt-4), [Gemini 1.5](https://gemini.google.com)
 ```
 
 **Por que a IA generativa importa na criação de negócios?**
@@ -269,12 +269,12 @@ Para acompanhar de perto esse cenário em constante transformação, duas plataf
 ```{admonition} [LMArena Leaderboard](https://lmarena.ai/)
 :class: tip
 Uma plataforma onde modelos de IA generativa competem em duelos de perguntas e respostas. Os resultados são baseados em **votações humanas cegas**, o que garante um reflexo fiel da experiência de uso. A arena oferece:
-- Comparações diretas entre modelos como GPT-4, Claude 2, Mistral, Llama 2, entre outros;
+- Comparações diretas entre modelos como GPT-4, Claude 3, Mistral, Llama 3, entre outros;
 - Atualizações contínuas conforme novos modelos são lançados;
 - Dados úteis para avaliar desempenho em tarefas reais.
 ```
 
-```{admonition} [Hugging Face — Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard)
+```{admonition} [Hugging Face — Chatbot Arena](https://huggingface.co/spaces/lmarena-ai/chatbot-arena)
 :class: tip
 Esta é a versão da LMArena hospedada na Hugging Face, com acesso fácil ao código e visualizações interativas. É ideal para quem quer:
 - Testar os modelos diretamente no navegador;

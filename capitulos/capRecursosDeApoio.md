@@ -362,11 +362,11 @@ Análises técnicas aprofundadas sobre desenvolvimentos em IA. Jornalismo de qua
 
 **[Twitter/X - #AITwitter](https://twitter.com/search?q=%23AITwitter)**  
 Pesquisadores e desenvolvedores compartilham descobertas em tempo real. Siga contas como:
-- @AndrewYNg (Andrew Ng)
-- @ylecun (Yann LeCun)
-- @goodfellow_ian (Ian Goodfellow)
-- @karpathy (Andrej Karpathy)
-- @sama (Sam Altman)
+- [&#64;AndrewYNg](https://x.com/AndrewYNg) (Andrew Ng)
+- [&#64;ylecun](https://x.com/ylecun) (Yann LeCun)
+- [&#64;goodfellow_ian](https://x.com/goodfellow_ian) (Ian Goodfellow)
+- [&#64;karpathy](https://x.com/karpathy) (Andrej Karpathy)
+- [&#64;sama](https://x.com/sama) (Sam Altman)
 
 **[LinkedIn - Hashtag #ArtificialIntelligence](https://www.linkedin.com/feed/hashtag/artificialintelligence/)**  
 Análises de negócios e aplicações corporativas. Networking profissional e oportunidades.
