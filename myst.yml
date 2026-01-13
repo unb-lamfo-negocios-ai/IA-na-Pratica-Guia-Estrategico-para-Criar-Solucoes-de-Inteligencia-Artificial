@@ -24,7 +24,7 @@ project:
     - file: capitulos/capRecursosDeApoio.md
     - file: capitulos/Sobre_os_Autores.md
 site:
-  title: "Guia Estratégico"
+  title: "IA na Prática - Guia Estratégico"
   options:
     logo: imagens/logo_otimizai_lamfo.png
     favicon: imagens/logo.png
