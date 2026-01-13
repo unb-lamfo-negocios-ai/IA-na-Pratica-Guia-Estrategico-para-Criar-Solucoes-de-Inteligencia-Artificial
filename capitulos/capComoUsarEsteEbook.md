@@ -117,7 +117,7 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 As referências bibliográficas utilizadas são apresentadas ao final de cada capítulo
 
 
-## Assuntos Fora do Escopo Deste Livro (pelo menos por enquanto...)
+## Assuntos fora do escopo deste livro (pelo menos por enquanto...)
 
 Embora este material apresente uma base sólida para trabalhar com Inteligência Artificial aplicada, diversos temas importantes — especialmente de natureza teórica, avançada ou de pesquisa — **não foram abordados**. Entre eles:
 
