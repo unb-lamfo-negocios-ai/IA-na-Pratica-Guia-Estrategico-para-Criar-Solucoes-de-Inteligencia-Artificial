@@ -92,7 +92,7 @@ O livro está dividido em capítulos que seguem uma progressão lógica, mas pod
 - **Serviços de inferência e otimização**: reduzem custo e aumentam velocidade de execução dos modelos.
 - **Ferramentas de avaliação e monitoramento**: acompanham desempenho, qualidade e segurança do sistema.
 5. [**Capítulo 5 — Protocolos de Integração entre Modelos Computacionais**](cap2MCP)
-- **Por que protocolos importam**: padronizam comunicação e reduzem fricção entre sistemas e modelos.
+- **Importância dos protocolos**: padronizam comunicação e reduzem fricção entre sistemas e modelos.
 - **MCP (Model Context Protocol)**: viabiliza integração segura entre agentes, ferramentas e dados.
 - **Arquitetura cliente–servidor do MCP**: organiza a interação entre hosts, servidores e modelos.
 - **Tools, resources e prompts parametrizados**: permitem ações controladas e reutilizáveis pelos modelos.
