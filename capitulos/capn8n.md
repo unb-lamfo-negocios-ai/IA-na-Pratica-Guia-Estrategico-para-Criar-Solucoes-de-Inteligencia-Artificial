@@ -513,8 +513,8 @@ Esses nodes permitem que o n8n **envie, receba ou modifique dados fora dele**, o
 |Google Drive	|<span style="background-color: #f2f2f2; border-radius: 5px; padding: 2px 6px; font-family: monospace; color: #d6336c; border: 1px solid #f2f2f2;">n8n-nodes-base.googleDrive</span>	|Baixar um contrato ou subir um arquivo|
 |Notion	|<span style="background-color: #f2f2f2; border-radius: 5px; padding: 2px 6px; font-family: monospace; color: #d6336c; border: 1px solid #f2f2f2;">n8n-nodes-base.notion</span>	|Registrar uma nova oportunidade|
 |ScrapingBee|	<span style="background-color: #f2f2f2; border-radius: 5px; padding: 2px 6px; font-family: monospace; color: #d6336c; border: 1px solid #f2f2f2;">httpRequest + headers</span>	|Scraping de sites com autenticação|
-|DeepSeek AI / OpenAI / Gemini|	<span style="background-color: #f2f2f2; border-radius: 5px; padding: 2px 6px; font-family: monospace; color: #d6336c; border: 1px solid #f2f2f2;">@n8n/n8n-nodes-langchain.lmChat...</span>	|Responder com IA personalizada|
-|Supabase	|<span style="background-color: #f2f2f2; border-radius: 5px; padding: 2px 6px; font-family: monospace; color: #d6336c; border: 1px solid #f2f2f2;">@n8n/n8n-nodes-langchain.vectorStoreSupabase</span>	|Gravar vetores de RAG|
+|DeepSeek AI / OpenAI / Gemini|	<span style="background-color: #f2f2f2; border-radius: 5px; padding: 2px 6px; font-family: monospace; color: #d6336c; border: 1px solid #f2f2f2;">n8n-nodes-langchain.lmChat...</span>	|Responder com IA personalizada|
+|Supabase	|<span style="background-color: #f2f2f2; border-radius: 5px; padding: 2px 6px; font-family: monospace; color: #d6336c; border: 1px solid #f2f2f2;">n8n-nodes-langchain.vectorStoreSupabase</span>	|Gravar vetores de RAG|
 
 ### Como funcionam os Nodes de Aplicativo?
 

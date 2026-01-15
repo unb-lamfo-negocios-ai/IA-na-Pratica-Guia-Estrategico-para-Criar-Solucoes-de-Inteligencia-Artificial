@@ -11,6 +11,8 @@ project:
     - format: pdf
       template: plain_latex_book
       output: exports/book.pdf
+    - format: typst
+      output: exports/book-typst.pdf
   toc:
 
     - file: capitulos/capCapa.md
