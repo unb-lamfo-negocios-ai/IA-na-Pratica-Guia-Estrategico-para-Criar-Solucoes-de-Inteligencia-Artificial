@@ -31,9 +31,9 @@ Nos últimos anos, o LAMFO consolidou-se como referência nacional ao atuar em p
 
 ## OtimizAI – Soluções em Inteligência Artificial
 
-A **OtimizAI** é uma startup de base tecnológica incubada no **Centro de Apoio ao Desenvolvimento Tecnológico da Universidade de Brasília (CDT/UnB)**. A empresa nasceu da união entre pesquisa científica de ponta e aplicação prática de inteligência artificial em ambientes corporativos e governamentais, reunindo especialistas com forte atuação em IA, dados e automação inteligente.
+A **OtimizAI** é uma startup de base tecnológica incubada no **Parque Científico e Tecnológico da UnB - PCTec/UnB**. A empresa nasceu da união entre pesquisa científica de ponta e aplicação prática de inteligência artificial em ambientes corporativos e governamentais, reunindo especialistas com forte atuação em IA, dados e automação inteligente.
 
-O propósito da OtimizAI é transformar conhecimento avançado em **soluções robustas, seguras e escaláveis**, capazes de lidar com desafios reais de gestão e processamento de informação. A empresa desenvolve tecnologias utilizadas diariamente em ambiente real, com soluções em produção que atendem milhares de clientes e usuários todos os meses.
+O propósito é **extrair e multiplicar o valor do conhecimento organizacional** por meio de Inteligência Artificial, transformando informação fragmentada em decisões estratégicas, processos otimizados e soluções escaláveis que geram impacto real.
 
 ### Destaques da OtimizAI
 - **Soluções inteligentes para ambientes organizacionais**  
@@ -47,7 +47,7 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
   A OtimizAI atua na fronteira do conhecimento em IA, desenvolvendo soluções que combinam técnicas modernas de NLP, aprendizado profundo e engenharia de software orientada a dados.
 
 - **Compromisso com segurança e governança**  
-  A empresa adota padrões rigorosos de privacidade, proteção de dados e boas práticas de IA responsável.
+  A empresa adota as melhores recomendações de segurança, privacidade, proteção de dados e boas práticas de IA responsável.
 
 ### Valores da OtimizAI
 - Trabalho na **fronteira do conhecimento**  
@@ -61,7 +61,66 @@ O propósito da OtimizAI é transformar conhecimento avançado em **soluções r
 
 ## Sobre os Autores
 
-### Allan Victor Almeida Faria
+### Coordenadores
+
+#### Maísa Kely de Melo
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/maisa.jpg
+:alt: Maísa Kely de Melo
+:width: 60%
+:align: center
+```
+
+*Participação no ebook:* autora e coordenadora editorial
+
+[LinkedIn](https://www.linkedin.com/in/maisamelo/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+ Maísa Kely de Melo é graduada em Matemática, com mestrado em Matemática Pura e doutorado em Modelagem Matemática e Computacional. Professora do IFMG Campus Formiga, é pesquisadora e membro do LAMFO/UnB, atuando em projetos de IA aplicada, ciência de dados e análise de políticas públicas. Cofundadora da OtimizAI, trabalha no desenho conceitual e técnico de soluções baseadas em IA generativa, NLP e vetorização semântica.
+:::
+
+::::
+
+---
+
+#### Victor Rafael Rezende Celestino
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 3
+```{image} ../imagens/victor.jpg
+:alt: Victor Rafael Rezende Celestino
+:width: 60%
+:align: center
+```
+
+*Participação no ebook:* autor e coordenador de concepção da obra
+
+[LinkedIn](https://www.linkedin.com/in/victor-rafael-r-celestino-47ab9b/)
+:::
+
+:::{grid-item}
+:columns: 9
+
+  Victor Rafael Rezende Celestino é Professor Adjunto na Universidade de Brasília (UnB), no Departamento de Administração (ADM/FACE). Possui graduação e mestrado em Engenharia Aeronáutica pelo ITA e doutorado em Psicologia pela UCB, com formação complementar em regulação, estratégia organizacional e engenharia de ensaios em voo. Membro do LAMFO/UnB e cofundador da OtimizAI, atua com aplicações de aprendizado de máquina, ciência de dados, computação paralela, estatística multivariada e IA em finanças, organizações e fatores humanos no trabalho. 
+:::
+
+::::
+
+### Demais autores, desenvolvedores e revisores
+
+
+#### Allan Victor Almeida Faria
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -88,7 +147,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 
 
 ---
-### Eric Raniere Costa
+#### Eric Raniere Costa
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -117,7 +176,7 @@ Allan Victor Almeida Faria é CTO e cofundador da OtimizAI. É graduado em Estat
 
 ---
 
-### Fausto Barros de Sá Teles
+#### Fausto Barros de Sá Teles
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -145,7 +204,7 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ---
 
-### Felipe Tavares Loureiro
+#### Felipe Tavares Loureiro
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -173,7 +232,7 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ---
 
-### Gabriel Tucci
+#### Gabriel Tucci
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -201,35 +260,8 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ---
 
-### Maísa Kely de Melo
 
-::::{grid} 1 1 2 2
-:gutter: 3
-
-:::{grid-item}
-:columns: 3
-```{image} ../imagens/maisa.jpg
-:alt: Maísa Kely de Melo
-:width: 60%
-:align: center
-```
-
-*Participação no ebook:* autora e coordenadora editorial
-
-[LinkedIn](https://www.linkedin.com/in/maisamelo/)
-:::
-
-:::{grid-item}
-:columns: 9
-
- Maísa Kely de Melo é graduada em Matemática, com mestrado em Matemática Pura e doutorado em Modelagem Matemática e Computacional. Professora do IFMG Campus Formiga, é pesquisadora e membro do LAMFO/UnB, atuando em projetos de IA aplicada, ciência de dados e análise de políticas públicas. Cofundadora da OtimizAI, trabalha no desenho conceitual e técnico de soluções baseadas em IA generativa, NLP e vetorização semântica.
-:::
-
-::::
-
----
-
-### Mateus Macedo
+#### Mateus Macedo
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -257,7 +289,7 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ---
 
-### Paulo de Oliveira Gontijo
+#### Paulo de Oliveira Gontijo
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -285,7 +317,7 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ---
 
-### Silvia Araújo dos Reis
+#### Silvia Araújo dos Reis
 
 ::::{grid} 1 1 2 2
 :gutter: 3
@@ -313,32 +345,6 @@ Fausto Barros de Sá Teles é Analista Legislativo da Câmara dos Deputados. É 
 
 ---
 
-
-### Victor Rafael Rezende Celestino
-
-::::{grid} 1 1 2 2
-:gutter: 3
-
-:::{grid-item}
-:columns: 3
-```{image} ../imagens/victor.jpg
-:alt: Victor Rafael Rezende Celestino
-:width: 60%
-:align: center
-```
-
-*Participação no ebook:* autor e coordenador de concepção da obra
-
-[LinkedIn](https://www.linkedin.com/in/victor-rafael-r-celestino-47ab9b/)
-:::
-
-:::{grid-item}
-:columns: 9
-
-  Victor Rafael Rezende Celestino é Professor Adjunto na Universidade de Brasília (UnB), no Departamento de Administração (ADM/FACE). Possui graduação e mestrado em Engenharia Aeronáutica pelo ITA e doutorado em Psicologia pela UCB, com formação complementar em regulação, estratégia organizacional e engenharia de ensaios em voo. Membro do LAMFO/UnB e cofundador da OtimizAI, atua com aplicações de aprendizado de máquina, ciência de dados, computação paralela, estatística multivariada e IA em finanças, organizações e fatores humanos no trabalho. 
-:::
-
-::::
 
 
 
