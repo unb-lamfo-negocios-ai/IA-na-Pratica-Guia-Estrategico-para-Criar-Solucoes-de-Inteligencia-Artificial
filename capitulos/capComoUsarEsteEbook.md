@@ -134,7 +134,7 @@ Esses tópicos permanecem como caminhos naturais de aprofundamento para leitores
 
 ## Por que Este Livro “Nunca Estará Pronto”
 
-Escrever sobre Inteligência Artificial hoje é, por si só, um desafio instigante — e inevitavelmente imperfeito. A tecnologia avança em ritmo acelerado, quase em tempo real, e aquilo que afirmamos agora pode ganhar novas camadas, atualizações ou até ser superado em poucos meses. Este livro, lançado em dezembro de 2025, nasce com essa consciência plena.
+Escrever sobre Inteligência Artificial hoje é, por si só, um desafio instigante — e inevitavelmente imperfeito. A tecnologia avança em ritmo acelerado, quase em tempo real, e aquilo que afirmamos agora pode ganhar novas camadas, atualizações ou até ser superado em poucos meses. Este livro, lançado em fevereiro de 2026, nasce com essa consciência plena.
 
 Por isso, não o enxergamos como uma obra fechada, mas como um ponto de partida — um organismo vivo, que respira junto com a evolução da IA e cresce com a contribuição de quem o lê.
 
