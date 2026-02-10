@@ -145,6 +145,10 @@ Participe da construção deste conteúdo!
 Sempre que tiver uma sugestão, correção ou atualização, você pode enviar uma solicitação de modificação pelo GitHub por meio de um pull request. Sua colaboração é bem-vinda e valorizada; juntos, conseguimos manter este material útil, atual e conectado com as transformações do nosso tempo.
 :::
 
+## Registro e Identificação da Obra
+
+Este livro está devidamente registrado junto ao sistema internacional de identificação de publicações, sob o ISBN nº 978-65-978935-0-8, o que garante sua identificação única como obra editorial, facilita sua catalogação, distribuição e referência, além de assegurar o reconhecimento formal da publicação nos meios acadêmicos, comerciais e institucionais.
+
  ## Dicas para aproveitar melhor a leitura
 
 1. **Leia de forma não linear**: cada capítulo foi estruturado para ser consultado separadamente, permitindo que você avance diretamente para os temas mais urgentes no seu contexto.  
